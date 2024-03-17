@@ -20,7 +20,7 @@ async function fetchData(url) {
 
             let publisherName = $(element).find('.publisher-name a').text().trim();
             let backgroundImageUrl = $(element).find('.content.img-in-ratio').css('background-image');
-            backgroundImageUrl = backgroundImageUrl.replace('url("', '').replace('")', '');
+            backgroundImageUrl = backgroundImageUrl.replace("url('", "").replace("')", "");
 
             if (!dataList.find(item => item.seriesName === seriesNameText)) {
                 dataList.push({
