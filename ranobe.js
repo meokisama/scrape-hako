@@ -3,6 +3,7 @@ const cheerio = require('cheerio');
 const fs = require('fs');
 
 let dataList = [];
+const maxPages = 84;
 
 const seriesMap = {
     "Lời Nói Đùa Tập": "Lời Nói Đùa",
@@ -16,7 +17,7 @@ const seriesMap = {
     "Okitegami Kyoko": "Okitegami Kyoko",
     "86": "86 Eighty Six",
     "Tập Tỏ Tình": "Tập Tỏ Tình",
-    "SPY ROOM - Lớp Học Điệp Viên": "SPY ROOM - Lớp Học Điệp Viên",
+    "Lớp Học Điệp Viên": "Spy Room - Lớp Học Điệp Viên",
     "Tiệm Sách Cũ Biblia": "Tiệm Sách Cũ Biblia",
     "Văn Hào Lưu Lạc": "Văn Hào Lưu Lạc",
     "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách": "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách",
@@ -31,7 +32,15 @@ const seriesMap = {
     "Another": "Another",
     "Your Name": "Your Name",
     "Khóa Chặt Cửa Nào Suzume": "Khóa Chặt Cửa Nào Suzume",
-    "Sứ Giả Bốn Mùa": "Sứ Giả Bốn Mùa"
+    "Sứ Giả Bốn Mùa": "Sứ Giả Bốn Mùa",
+    "Ma Vương Kiến Tạo": "Ma Vương Kiến Tạo - Hầm Ngục Kiên Cố Nhất Chính Là Thành Phố Hiện Đại",
+    "Grimgar": "Grimgar - Ảo Ảnh Và Tro Tàn",
+    "Từ Tân Thế Giới": "Từ Tân Thế Giới",
+    "Gia Tộc Thần Bí": "Gia Tộc Thần Bí",
+    "Thế Giới Otomegame Thật Khắc Nghiệt Với Nhân Vật Quần Chúng": "Thế Giới Otome Game Thật Khắc Nghiệt Với Nhân Vật Quần Chúng",
+    "Diệt Slime Suốt 300 Năm Tôi Level Max Lúc Nào Chẳng Hay": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
+    "Holmes ở Kyoto": "Holmes Ở Kyoto",
+    "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
 };
 
 async function fetchData(url) {
@@ -64,17 +73,17 @@ async function fetchData(url) {
 
 async function fetchAllData() {
     try {
-        for (let i = 1; i <= 82; i++) {
-            const url = `https://ln.hako.vn/xuat-ban?page=${i}`;
+        for (let page = 1; page <= maxPages; page++) {
+            const url = `https://ln.hako.vn/xuat-ban?page=${page}`;
             await fetchData(url);
             await delay(5000);
             console.log(`Fetched data from ${url}`);
         }
 
         console.log("All data fetched!");
-        fs.writeFile('dataList.txt', JSON.stringify(dataList), (err) => {
+        fs.writeFile('ranobe_output.txt', JSON.stringify(dataList, null, 2), (err) => {
             if (err) throw err;
-            console.log('DataList has been saved to dataList.txt');
+            console.log('DataList has been saved to ranobe_output.txt');
         });
 
     } catch (error) {
