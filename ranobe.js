@@ -41,6 +41,7 @@ const seriesMap = {
     "Diệt Slime Suốt 300 Năm Tôi Level Max Lúc Nào Chẳng Hay": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
     "Holmes ở Kyoto": "Holmes Ở Kyoto",
     "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
+    "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon?": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
 };
 
 async function fetchData(url) {
@@ -73,12 +74,18 @@ async function fetchData(url) {
 
 async function fetchAllData() {
     try {
-        for (let page = 1; page <= maxPages; page++) {
+        for (let page = maxPages; page >= 1; page--) {
             const url = `https://ln.hako.vn/xuat-ban?page=${page}`;
             await fetchData(url);
             await delay(5000);
             console.log(`Fetched data from ${url}`);
         }
+
+        // Add IDs and reverse the list
+        dataList = dataList.map((item, index) => ({
+            id: index + 1,
+            ...item
+        })).reverse();
 
         console.log("All data fetched!");
         fs.writeFile('ranobe_output.txt', JSON.stringify(dataList, null, 2), (err) => {

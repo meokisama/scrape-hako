@@ -41,7 +41,13 @@ const seriesMap = {
     "Diệt Slime Suốt 300 Năm Tôi Level Max Lúc Nào Chẳng Hay": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
     "Holmes ở Kyoto": "Holmes Ở Kyoto",
     "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
+    "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon?": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
 };
+
+const artistMap = {
+    "Booota": "booota",
+    "Tsurusaki Takahiro, Fumi": "Fuumi",
+}
 
 async function fetchPageData(page) {
     const url = `${baseUrl}?page=${page}`;
@@ -63,6 +69,10 @@ async function fetchPageData(page) {
 
             // Apply the series map exceptions
             Object.keys(seriesMap).forEach(name => seriesTitle = seriesTitle.includes(name) ? seriesMap[name] : seriesTitle)
+
+            // Apply the artist map exceptions
+            Object.keys(artistMap).forEach(name => artistName = artistName.includes(name) ? artistMap[name] : artistName)
+
 
             results.push({
                 seriesTitle: seriesTitle,
@@ -109,7 +119,19 @@ async function fetchAllPages() {
         return acc;
     }, {});
 
-    return groupedByArtist;
+    // Convert to desired format
+    const formattedResults = Object.entries(groupedByArtist)
+        .filter(([artistName]) => artistName !== "N/A" && artistName !== "Chưa rõ")
+        .map(([artistName, series], index) => ({
+            id: index + 1,
+            name: artistName,
+            series: series
+        }));
+
+    // Sort by number of series in descending order
+    // formattedResults.sort((a, b) => b.series.length - a.series.length);
+
+    return formattedResults;
 }
 
 async function saveToFile(data) {
