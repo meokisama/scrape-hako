@@ -42,6 +42,7 @@ const seriesMap = {
     "Holmes ở Kyoto": "Holmes Ở Kyoto",
     "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
     "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon?": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
+    "Lá Thư Từ Tương Lai": "Orange - Lá Thư Từ Tương Lai",
 };
 
 async function fetchData(url) {

@@ -42,11 +42,13 @@ const seriesMap = {
     "Holmes ở Kyoto": "Holmes Ở Kyoto",
     "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
     "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon?": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
+    "Lá Thư Từ Tương Lai": "Orange - Lá Thư Từ Tương Lai",
 };
 
 const artistMap = {
     "Booota": "booota",
     "Tsurusaki Takahiro, Fumi": "Fuumi",
+    "Momoko": "Momoco",
 }
 
 async function fetchPageData(page) {
@@ -60,7 +62,7 @@ async function fetchPageData(page) {
 
         $('.listall-item').each((index, element) => {
             let seriesTitle = $(element).find('.series-title .series-name').text().trim();
-            const artistName = $(element).find('.info-item:contains("Họa sĩ:") .info-value a').text().trim();
+            let artistName = $(element).find('.info-item:contains("Họa sĩ:") .info-value a').text().trim();
             const coverUrl = $(element).find('.series-cover .content.img-in-ratio').css('background-image');
             const coverUrlFormatted = coverUrl ? coverUrl.replace(/^url\(['"](.+)['"]\)$/, '$1') : '';
 
@@ -90,7 +92,7 @@ async function fetchPageData(page) {
 
 async function fetchAllPages() {
     let allResults = [];
-    for (let page = 1; page <= maxPages; page++) {
+    for (let page = maxPages; page >= 1; page--) {
         const pageResults = await fetchPageData(page);
         allResults = allResults.concat(pageResults);
         console.log(`Fetched data from page ${page}`);
@@ -126,7 +128,7 @@ async function fetchAllPages() {
             id: index + 1,
             name: artistName,
             series: series
-        }));
+        })).reverse();
 
     // Sort by number of series in descending order
     // formattedResults.sort((a, b) => b.series.length - a.series.length);

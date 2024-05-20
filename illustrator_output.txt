@@ -1,36 +1,6 @@
 [
   {
-    "id": 1,
-    "name": "456",
-    "series": [
-      {
-        "seriesTitle": "Torinoko City - Thành phố bị bỏ rơi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0d758a19-984b-4fd3-9f92-0eabc1f5a990.jpg"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Hanekoto",
-    "series": [
-      {
-        "seriesTitle": "Thiên Sứ Nhà Bên",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/3eab6937-5ef1-4416-8b7d-698df2a38876.jpg"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Hitaki Yuu",
-    "series": [
-      {
-        "seriesTitle": "Nữ Chính Sinh Tồn Mạnh Mẽ Trong Thế Giới Otome Game",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/d38d150a-02f5-4e34-ae3f-0333173b3a31.jpg"
-      }
-    ]
-  },
-  {
-    "id": 4,
+    "id": 154,
     "name": "Nakamura",
     "series": [
       {
@@ -40,87 +10,7 @@
     ]
   },
   {
-    "id": 5,
-    "name": "Shirai Eiri",
-    "series": [
-      {
-        "seriesTitle": "Grimgar - Ảo Ảnh Và Tro Tàn",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/1760e91c-4ff6-40b9-9d45-9abe4f30e666.jpg"
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Shiina You",
-    "series": [
-      {
-        "seriesTitle": "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/cdb412c7-5325-4975-a19c-d1d7a52d92d7.jpg"
-      }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Roha",
-    "series": [
-      {
-        "seriesTitle": "Cô Nàng Shimotsuki Trót Phải Lòng Nhân Vật Nền",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/c3767b39-a0e4-49aa-a8ef-be2e114eff13.jpg"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Shiina Kuro",
-    "series": [
-      {
-        "seriesTitle": "Ai Dám Bảo Rom-com Không Có Ngoài Đời Thực?",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/fcda86e1-40b4-4061-bbf0-12a7dd880d39.jpg"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Tomari",
-    "series": [
-      {
-        "seriesTitle": "Spy Room - Lớp Học Điệp Viên",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/19a61092-0c96-49c3-9cc1-d384a057c39b.jpg"
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Marui-no",
-    "series": [
-      {
-        "seriesTitle": "Ma Pháp Thiếu Nữ",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/34c01f6b-7f8f-4316-85a6-bab693117d6f.jpg"
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Monda",
-    "series": [
-      {
-        "seriesTitle": "Thế Giới Otome Game Thật Khắc Nghiệt Với Nhân Vật Quần Chúng",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/382d7a63-5b5b-4d77-a579-05dce103c35d.jpg"
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Momoko",
-    "series": [
-      {
-        "seriesTitle": "Arya Bàn Bên Thỉnh Thoảng Lại Trêu Ghẹo Tôi Bằng Tiếng Nga",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/c1a9536d-d16b-487d-a29e-e74b521db055.jpg"
-      }
-    ]
-  },
-  {
-    "id": 13,
+    "id": 153,
     "name": "Suoh",
     "series": [
       {
@@ -130,125 +20,7 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Shirabii",
-    "series": [
-      {
-        "seriesTitle": "86 Eighty Six",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/10f01789-fbd5-476a-8a5f-00da1410e2b4.jpg"
-      },
-      {
-        "seriesTitle": "Công Việc Của Long Vương",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b3555458-a7d2-455e-97cb-ae61d9be1486.jpg"
-      },
-      {
-        "seriesTitle": "Mê Cung Thư Viện",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-180094fa-98b0-4c81-87d6-34022681e405.jpg"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Azure",
-    "series": [
-      {
-        "seriesTitle": "Hành Trình Của Elaina",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/185560ca-d4be-4889-9756-9b8198707957.jpg"
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Fly",
-    "series": [
-      {
-        "seriesTitle": "Nhân Vật Hạ Cấp Tomozaki",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/d295990b-fc8f-42c5-ba5e-274f2bc0730a.jpg"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Kazuharu Kina",
-    "series": [
-      {
-        "seriesTitle": "Chàng Trai Chuyển Kiếp Và Cô Gái Thiên Tài",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/eec5f26d-eaed-4d73-8b65-b037ff0ce61e.jpg"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Kususaga Rin",
-    "series": [
-      {
-        "seriesTitle": "Thánh Hiệp Sĩ Nơi Tận Cùng Thế Giới",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/35e0c1f6-8816-42cf-a011-ac5ddc3e7e86.jpg"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Tam-U",
-    "series": [
-      {
-        "seriesTitle": "Phá Đảo Dị Giới Cùng Nữ Thần Không Tín Đồ",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/2b79495f-14d1-471b-9ce5-ec86a4c32512.jpg"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "Tomose Shunsaku",
-    "series": [
-      {
-        "seriesTitle": "Chào Mừng Đến Lớp Học Đề Cao Thực Lực",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/4aec81c5-3e28-4dd5-a1f7-6f1fc423a5be.jpg"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "chibi",
-    "series": [
-      {
-        "seriesTitle": "Unnamed Memory - Hồi Ức Không Tên",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/7adf856f-21aa-474a-b194-5304890623d5.jpg"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Shino Touko",
-    "series": [
-      {
-        "seriesTitle": "Dược Sư Tự Sự",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/ef9d19d5-ad0f-45e0-9eb7-50aea6990ef8.jpg"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Soto",
-    "series": [
-      {
-        "seriesTitle": "Tặng Hoa Cho Quái Vật Trong Rừng",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/303fce14-a85b-4c98-9ece-53c3d7f1b2be.jpg"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Matsumoto Mitsuaki",
-    "series": [
-      {
-        "seriesTitle": "Nguyệt Đạo Dị Giới",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/0b00339f-837c-4282-bac3-a9bd5c328282.jpg"
-      }
-    ]
-  },
-  {
-    "id": 25,
+    "id": 152,
     "name": "Yabuki Kentarou",
     "series": [
       {
@@ -258,71 +30,17 @@
     ]
   },
   {
-    "id": 26,
-    "name": "Yasuda Suzuhito",
+    "id": 151,
+    "name": "Soto",
     "series": [
       {
-        "seriesTitle": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/0bb1396d-296e-4911-adc0-aae4bad4449d.jpg"
-      },
-      {
-        "seriesTitle": "Durarara!!",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-96de4480-a97f-4905-8c4b-cf05a0634988.jpg"
+        "seriesTitle": "Tặng Hoa Cho Quái Vật Trong Rừng",
+        "coverUrl": "https://i2.docln.net/ln/licensed/covers/303fce14-a85b-4c98-9ece-53c3d7f1b2be.jpg"
       }
     ]
   },
   {
-    "id": 27,
-    "name": "Siokazunoko",
-    "series": [
-      {
-        "seriesTitle": "Này Cậu Có Muốn Hẹn Hò Với Tớ Không?",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/82428ea5-3285-4c9d-b870-8aad8f5e9f18.jpg"
-      }
-    ]
-  },
-  {
-    "id": 28,
-    "name": "kuroki",
-    "series": [
-      {
-        "seriesTitle": "Nàng Cựu Idol Lớp Tôi Lại Có Hành Động Đáng Ngờ Nữa Rồi",
-        "coverUrl": "https://i2.docln.net/ln/licensed/covers/228de1ce-5bd2-4bd0-bd42-6297178cea97.jpg"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "name": "Ninagawa Yaeko",
-    "series": [
-      {
-        "seriesTitle": "Bầu Trời Xanh Của Em",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f4216545-2ae0-45a2-84a1-0b65e0e5e609.jpg"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "Tatekawa Mako",
-    "series": [
-      {
-        "seriesTitle": "Cô Nàng Otaku Nhà Tôi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-afddf033-e217-48df-8997-79dd46dda421.jpg"
-      }
-    ]
-  },
-  {
-    "id": 31,
-    "name": "Umibouzu",
-    "series": [
-      {
-        "seriesTitle": "Thám Tử Đã Chết",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-226edb18-b150-480b-aa9b-5754aa7fcfbd.jpg"
-      }
-    ]
-  },
-  {
-    "id": 32,
+    "id": 150,
     "name": "Miwabe Sakura",
     "series": [
       {
@@ -332,27 +50,17 @@
     ]
   },
   {
-    "id": 33,
-    "name": "Touzai",
+    "id": 149,
+    "name": "Ninagawa Yaeko",
     "series": [
       {
-        "seriesTitle": "Chúa Tể Bóng Tối",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8d6df625-c394-4344-b347-e8a1da785bf4.jpg"
+        "seriesTitle": "Bầu Trời Xanh Của Em",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f4216545-2ae0-45a2-84a1-0b65e0e5e609.jpg"
       }
     ]
   },
   {
-    "id": 34,
-    "name": "Takaya-Ki",
-    "series": [
-      {
-        "seriesTitle": "Arifureta - Từ Tầm Thường Đến Bất Khả Chiến Bại",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1899cf80-c27e-43cd-bdfe-35ade28a75c0.jpg"
-      }
-    ]
-  },
-  {
-    "id": 35,
+    "id": 148,
     "name": "Yu-Nagi",
     "series": [
       {
@@ -362,37 +70,7 @@
     ]
   },
   {
-    "id": 36,
-    "name": "raemz",
-    "series": [
-      {
-        "seriesTitle": "Chitose Trong Chai Ramune",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-647d6848-eaa8-413a-98ad-b72abf91c714.jpg"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Hanagata",
-    "series": [
-      {
-        "seriesTitle": "Tôi Yêu Nữ Phản Diện",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bf3c5b77-126a-402f-9a6f-b21ba35d50d6.jpg"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "name": "KeG",
-    "series": [
-      {
-        "seriesTitle": "Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f8e4863c-22fc-43f5-b2f3-e9d8464fbe16.jpg"
-      }
-    ]
-  },
-  {
-    "id": 39,
+    "id": 147,
     "name": "Miyuki Ruria",
     "series": [
       {
@@ -402,75 +80,17 @@
     ]
   },
   {
-    "id": 40,
-    "name": "COMTA",
+    "id": 146,
+    "name": "Hitaki Yuu",
     "series": [
       {
-        "seriesTitle": "Ma Vương Tôi Đây Nên Yêu Cô Dâu Elf Của Mình Như Thế Nào?",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-fba89f79-0ca9-46f1-8714-ae88d6b66914.jpg"
+        "seriesTitle": "Nữ Chính Sinh Tồn Mạnh Mẽ Trong Thế Giới Otome Game",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6fb11bac-df29-4ac4-a4b2-d8ab2231532d.jpg"
       }
     ]
   },
   {
-    "id": 41,
-    "name": "Kureta",
-    "series": [
-      {
-        "seriesTitle": "ISHURA - Tu la dị giới",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0c80a51e-389c-4fb6-8fcc-89c56b0bad64.jpg"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Take",
-    "series": [
-      {
-        "seriesTitle": "Lời Nói Đùa",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-fe2de981-ab83-4f97-a2c5-7bd3f14ce1ad.jpg"
-      },
-      {
-        "seriesTitle": "Đao Ngữ",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-881d721d-bc99-49a8-9d1d-ce06aef58670.jpg"
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "name": "So-bin",
-    "series": [
-      {
-        "seriesTitle": "OVERLORD",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-333362c5-9840-45d9-8bc1-707699b8646c.jpg"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "Benio",
-    "series": [
-      {
-        "seriesTitle": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-25174ec4-ac3d-467c-8fb6-f3d4f5568620.jpg"
-      },
-      {
-        "seriesTitle": "Làm Bạn Thân Có Khó Không?",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5cf674ba-fb51-4b68-9336-f773bff9d44a.jpg"
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "name": "Nilitsu",
-    "series": [
-      {
-        "seriesTitle": "Cách Sống Của Thiếu Nữ Hành Quyết - Và Rồi, Cô Ấy Được Tái Sinh",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-543dcf8c-f20b-4a32-adaa-ded181e3d0a2.jpg"
-      }
-    ]
-  },
-  {
-    "id": 46,
+    "id": 145,
     "name": "Kukka",
     "series": [
       {
@@ -480,57 +100,27 @@
     ]
   },
   {
-    "id": 47,
-    "name": "Tsukioka Tsukiho",
+    "id": 144,
+    "name": "Tam-U",
     "series": [
       {
-        "seriesTitle": "Hôn Nhân Hạnh Phúc Của Tôi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0549dc6f-4e42-4611-aa12-597a38c33129.jpg"
+        "seriesTitle": "Phá Đảo Dị Giới Cùng Nữ Thần Không Tín Đồ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-5d3029d2-688d-4a59-8f40-df151de3479b.jpg"
       }
     ]
   },
   {
-    "id": 48,
-    "name": "abec",
+    "id": 143,
+    "name": "Nilitsu",
     "series": [
       {
-        "seriesTitle": "Sword Art Online",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0396c145-e413-41c2-9186-72a18a22d108.jpg"
+        "seriesTitle": "Cách Sống Của Thiếu Nữ Hành Quyết - Và Rồi, Cô Ấy Được Tái Sinh",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-543dcf8c-f20b-4a32-adaa-ded181e3d0a2.jpg"
       }
     ]
   },
   {
-    "id": 49,
-    "name": "Murata Renji",
-    "series": [
-      {
-        "seriesTitle": "Cop Craft - Cảnh Sát Đến Từ Hai Thế Giới",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f144db84-9055-4cd1-a784-a8381bec667f.jpg"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "name": "Kanda Done",
-    "series": [
-      {
-        "seriesTitle": "Vợ Trong Game Của Tôi Là Idol Nổi Tiếng Ngoài Đời",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-db27f40b-5008-4850-95eb-139c0dc623d5.jpg"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "name": "Akata Itsuki",
-    "series": [
-      {
-        "seriesTitle": "Đã Bảo Là Cho Tôi Năng Lực Trung Bình Thôi Mà!",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8f00cf2d-55d4-46ec-ba6b-f0d4b34b78b9.jpg"
-      }
-    ]
-  },
-  {
-    "id": 52,
+    "id": 142,
     "name": "Yukihiro Nakamura",
     "series": [
       {
@@ -540,17 +130,27 @@
     ]
   },
   {
-    "id": 53,
-    "name": "Taiki",
+    "id": 141,
+    "name": "Roha",
     "series": [
       {
-        "seriesTitle": "Infinite Dendrogram",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c8f26e44-4cae-4a7c-9c8d-0e9470b5eee5.jpg"
+        "seriesTitle": "Cô Nàng Shimotsuki Trót Phải Lòng Nhân Vật Nền",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-e8484f6d-3bbf-4ec8-9c05-babdec98ee48.jpg"
       }
     ]
   },
   {
-    "id": 54,
+    "id": 140,
+    "name": "Touzai",
+    "series": [
+      {
+        "seriesTitle": "Chúa Tể Bóng Tối",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-4f0ac8fc-6076-414b-815a-996dfa175c80.jpg"
+      }
+    ]
+  },
+  {
+    "id": 139,
     "name": "Nagu",
     "series": [
       {
@@ -560,27 +160,17 @@
     ]
   },
   {
-    "id": 55,
-    "name": "Otsuka Shinichirou",
+    "id": 138,
+    "name": "Siokazunoko",
     "series": [
       {
-        "seriesTitle": "Re:Zero - Bắt Đầu Lại Ở Thế Giới Khác",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1c46e6c8-f2ab-4eee-a1f3-95b16aa7a40e.jpg"
+        "seriesTitle": "Này Cậu Có Muốn Hẹn Hò Với Tớ Không?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-34665478-83cf-4994-bc0c-bda4cbf5e865.jpg"
       }
     ]
   },
   {
-    "id": 56,
-    "name": "Abara Heiki",
-    "series": [
-      {
-        "seriesTitle": "Chuyện Tình Hài Lãng Mạn Không Thể Chê Vào Đâu",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8aba05ba-a140-4715-babb-658d15afff71.jpg"
-      }
-    ]
-  },
-  {
-    "id": 57,
+    "id": 137,
     "name": "Mayumi Konno",
     "series": [
       {
@@ -590,195 +180,37 @@
     ]
   },
   {
-    "id": 58,
-    "name": "Won",
+    "id": 136,
+    "name": "kuroki",
     "series": [
       {
-        "seriesTitle": "Hiệp Sĩ Lưu Ban",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6c314e9c-434d-46cc-9d3a-552e069eb91a.jpg"
+        "seriesTitle": "Nàng Cựu Idol Lớp Tôi Lại Có Hành Động Đáng Ngờ Nữa Rồi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0c61eab0-2f86-4305-9237-3530f3de3921.jpg"
       }
     ]
   },
   {
-    "id": 59,
-    "name": "Shibano Kaito",
+    "id": 135,
+    "name": "Kazuharu Kina",
     "series": [
       {
-        "seriesTitle": "Anh Hùng Diệt Thần & Bảy Thệ Ước",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b6a14820-16b4-4d27-baa4-5ff4679b00ce.jpg"
+        "seriesTitle": "Chàng Trai Chuyển Kiếp Và Cô Gái Thiên Tài",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-034baf7b-a8e2-4523-a596-6be894e59b34.jpg"
       }
     ]
   },
   {
-    "id": 60,
-    "name": "Misaki Kurehito",
+    "id": 134,
+    "name": "Akata Itsuki",
     "series": [
       {
-        "seriesTitle": "Phương Pháp \"Đào Tạo\" Nữ Chính Nhạt Nhòa",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-7a3f2c3e-035d-4bcb-8ffa-6a6acb30dad5.jpg"
+        "seriesTitle": "Đã Bảo Là Cho Tôi Năng Lực Trung Bình Thôi Mà!",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-047b0de9-2beb-4fb7-a3a6-173c675745e3.jpg"
       }
     ]
   },
   {
-    "id": 61,
-    "name": "Yamako",
-    "series": [
-      {
-        "seriesTitle": "Tập Tỏ Tình",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-5e1e30c3-c57c-4b4c-a7d5-0ee28cfb7a69.jpg"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "name": "shirakaba",
-    "series": [
-      {
-        "seriesTitle": "Dã Ngoại Nơi Mặt Sau Của Thế Giới",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cc09224e-5371-4996-9de1-27ffd2e7b823.jpg"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "name": "Harukawa35",
-    "series": [
-      {
-        "seriesTitle": "Văn Hào Lưu Lạc",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e311626c-556c-4362-b773-36b2dcd11be5.jpg"
-      }
-    ]
-  },
-  {
-    "id": 64,
-    "name": "loundraw",
-    "series": [
-      {
-        "seriesTitle": "Phép Thuật Chỉ Chạm Tới Bán Kính Của Anh Và Em",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-b4fb267c-c3a8-4cbd-a811-666964559ce7.jpg"
-      },
-      {
-        "seriesTitle": "Em Là Ánh Sáng Giữa Đêm Trăng",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6b83ee96-318f-4f7c-9795-43c1709955ac.jpg"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "name": "Takeoka Miho",
-    "series": [
-      {
-        "seriesTitle": "Nàng Thợ May Tinh Linh",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7cf283b9-8b63-4719-8a8a-f4fb6e41999d.jpg"
-      },
-      {
-        "seriesTitle": "Khi Hikaru Còn Trên Thế Gian Này",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2bfc80bc-0468-4a88-896b-57327d615b00.jpg"
-      },
-      {
-        "seriesTitle": "Riku và Chise - Chàng Trai Phân Chia Thế Giới Và Cô Gái Trong Biệt Thự -",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3d8f3eff-3072-427d-ac60-1369a06e0fe6.jpg"
-      },
-      {
-        "seriesTitle": "Cô Gái Văn Chương",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1ff1ab49-9d3f-46ae-8617-6e6e5dce6ba9.jpg"
-      },
-      {
-        "seriesTitle": "Dưới Ánh Sáng Ma Pháp 0.2 Lux",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-faaee3dd-5c87-401b-986c-a8cb8b1b4836.jpg"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "name": "Saboten",
-    "series": [
-      {
-        "seriesTitle": "Gamers!",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d13815fd-629d-46e2-8cb7-16ede95f8de0.jpg"
-      }
-    ]
-  },
-  {
-    "id": 67,
-    "name": "Mitz Vah",
-    "series": [
-      {
-        "seriesTitle": "Về Chuyện Tôi Chuyển Sinh Thành Slime",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-34acd725-d985-4392-b71b-84bdfae1958a.jpg"
-      }
-    ]
-  },
-  {
-    "id": 68,
-    "name": "Eihi",
-    "series": [
-      {
-        "seriesTitle": "Số Phận Của Vị Hôn Thê",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cf44502b-5e4f-49f9-9675-7754d960e4ee.jpg"
-      },
-      {
-        "seriesTitle": "Chàng thẩm định viên và Nữ tác giả tập sự",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u1-05ae3d8a-0e6f-423e-85a1-e86efaebd43f.jpeg"
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "name": "Zaza",
-    "series": [
-      {
-        "seriesTitle": "Chủ Tiệm Bánh Chiến Binh Và Cô Phục Vụ Người Máy",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9a44608b-3f61-473a-9d14-650c6deeeff7.jpg"
-      }
-    ]
-  },
-  {
-    "id": 70,
-    "name": "Booota",
-    "series": [
-      {
-        "seriesTitle": "Subaru Và Vì Tinh Tú Thứ 7",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-dc6b8a1a-1641-4eaf-b347-e71d2f3a98b3.jpg"
-      }
-    ]
-  },
-  {
-    "id": 71,
-    "name": "Tsunako",
-    "series": [
-      {
-        "seriesTitle": "Date A Live",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4a0f21ee-eb08-4b0c-b3e0-42c72615d077.jpg"
-      }
-    ]
-  },
-  {
-    "id": 72,
-    "name": "Ponkan⑧",
-    "series": [
-      {
-        "seriesTitle": "Chuyện Tình Thanh Xuân Bi Hài Của Tôi Quả Nhiên Là Sai Lầm",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-dd710953-5206-42d3-a4ec-f1cbbd30c899.jpg"
-      }
-    ]
-  },
-  {
-    "id": 73,
-    "name": "VOFAN",
-    "series": [
-      {
-        "seriesTitle": "Okitegami Kyoko",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bfd072dd-0335-4e66-bfda-09db0ad4b678.jpg"
-      },
-      {
-        "seriesTitle": "Bakemonogatari",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d2fe8598-01cc-43f8-b790-2478429ed3b9.jpg"
-      }
-    ]
-  },
-  {
-    "id": 74,
+    "id": 133,
     "name": "toi8",
     "series": [
       {
@@ -788,47 +220,7 @@
     ]
   },
   {
-    "id": 75,
-    "name": "booota",
-    "series": [
-      {
-        "seriesTitle": "Mùa Hè Thứ Hai, Mất Em Mãi Mãi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9c1f2dad-537a-4728-8b0a-01be823ccf49.jpg"
-      }
-    ]
-  },
-  {
-    "id": 76,
-    "name": "Yamouchishizu",
-    "series": [
-      {
-        "seriesTitle": "Holmes Ở Kyoto",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-88b5a2ca-756f-4d63-9040-2254ff269059.jpg"
-      }
-    ]
-  },
-  {
-    "id": 77,
-    "name": "Tsukasa Kiryuu",
-    "series": [
-      {
-        "seriesTitle": "Tôi Là Nhện Đấy, Có Sao Không?",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5f81ccbe-2793-4a3f-8a34-102ee41b4f8e.jpg"
-      }
-    ]
-  },
-  {
-    "id": 78,
-    "name": "Hamashima Shigeo",
-    "series": [
-      {
-        "seriesTitle": "Gia Sư Của Công Chúa Quỷ",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82129e82-460b-45f6-9c3f-a444aec3a66f.jpg"
-      }
-    ]
-  },
-  {
-    "id": 79,
+    "id": 132,
     "name": "Tanaka Tatsuyuki",
     "series": [
       {
@@ -838,99 +230,107 @@
     ]
   },
   {
-    "id": 80,
-    "name": "Kinta",
+    "id": 131,
+    "name": "Hamashima Shigeo",
     "series": [
       {
-        "seriesTitle": "Lãnh Chúa Vùng Đất Không Cư Dân",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b10c0090-f8c8-4bb7-b16d-c9393bab70ea.jpg"
-      },
-      {
-        "seriesTitle": "Bị Đuổi Khỏi Nhóm Anh Hùng, Tôi Muốn Sống Tự Do Tự Tại Ở Vương Đô",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c0bb8c0e-c2ff-401c-8cea-ab981628ac32.jpg"
+        "seriesTitle": "Gia Sư Của Công Chúa Quỷ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82129e82-460b-45f6-9c3f-a444aec3a66f.jpg"
       }
     ]
   },
   {
-    "id": 81,
-    "name": "Peroshi",
+    "id": 130,
+    "name": "Abara Heiki",
     "series": [
       {
-        "seriesTitle": "Hành Trình Trở Thành Nhà Thám Hiểm Của Chàng Lính Đánh Thuê Bần Hàn",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-20ba12f8-7d81-48a7-936b-cd5889846ec0.jpg"
+        "seriesTitle": "Chuyện Tình Hài Lãng Mạn Không Thể Chê Vào Đâu",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-64bb02a6-1a38-45a5-8e92-df56d3882dc9.jpg"
       }
     ]
   },
   {
-    "id": 82,
-    "name": "Shinotsuki Shinobu",
+    "id": 129,
+    "name": "COMTA",
     "series": [
       {
-        "seriesTitle": "Tanya Chiến Ký",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a6675c22-3300-4857-861c-443c54332037.jpg"
+        "seriesTitle": "Ma Vương Tôi Đây Nên Yêu Cô Dâu Elf Của Mình Như Thế Nào?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-78b45229-3195-4a4b-9080-23b43b9b9a4e.jpg"
       }
     ]
   },
   {
-    "id": 83,
-    "name": "Mizoguchi Keeji",
+    "id": 128,
+    "name": "Misaki Kurehito",
     "series": [
       {
-        "seriesTitle": "Hội Chứng Tuổi Thanh Xuân",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-491d425f-dca0-4eb1-92f4-8d725d8f6d94.jpg"
+        "seriesTitle": "Phương Pháp \"Đào Tạo\" Nữ Chính Nhạt Nhòa",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7bce7747-b8ae-4094-97de-5663e6e32b0e.jpg"
       }
     ]
   },
   {
-    "id": 84,
-    "name": "Ishida Kana",
+    "id": 127,
+    "name": "Kureta",
     "series": [
       {
-        "seriesTitle": "Kẻ Dị Biệt Tại Trường Học Phép Thuật",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2f64aee2-bbc3-4571-8818-eb022fe45d6d.jpg"
+        "seriesTitle": "ISHURA - Tu la dị giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e8924cf3-3604-49ee-af11-5a1308ffb17f.jpg"
       }
     ]
   },
   {
-    "id": 85,
-    "name": "Riv",
+    "id": 126,
+    "name": "Tsukioka Tsukiho",
     "series": [
       {
-        "seriesTitle": "Tinh Linh Huyễn Tưởng Ký",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b0bed045-62f7-45d1-b6b5-32c488ce174a.jpg"
-      },
-      {
-        "seriesTitle": "Pháp Sư Tokyo",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a1180241-76f6-421e-9913-65e4682256c9.jpg"
+        "seriesTitle": "Hôn Nhân Hạnh Phúc Của Tôi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-571f657d-cca7-4229-9719-852b731e7c69.jpg"
       }
     ]
   },
   {
-    "id": 86,
-    "name": "029",
+    "id": 125,
+    "name": "Kanda Done",
     "series": [
       {
-        "seriesTitle": "Ma Vương Đi Làm!",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bc34d671-f0c2-423b-aad3-70b082ef718c.jpg"
-      },
-      {
-        "seriesTitle": "Cuộc Chiến Siêu Nhiên Giữa Đời Thường",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1a0239a9-48ed-4f7e-8882-bfa80562fc12.jpg"
+        "seriesTitle": "Vợ Trong Game Của Tôi Là Idol Nổi Tiếng Ngoài Đời",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8332805b-8004-43b3-b29c-7466f2569eb0.jpg"
       }
     ]
   },
   {
-    "id": 87,
-    "name": "Truffle, Kei",
+    "id": 124,
+    "name": "chibi",
     "series": [
       {
-        "seriesTitle": "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-20aaed00-6a10-430c-808a-c4c85f3b98d1.jpg"
+        "seriesTitle": "Unnamed Memory - Hồi Ức Không Tên",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5c6c6e28-09a4-4f2e-a8e9-13de6084f4ee.jpg"
       }
     ]
   },
   {
-    "id": 88,
+    "id": 123,
+    "name": "Momoko",
+    "series": [
+      {
+        "seriesTitle": "Arya Bàn Bên Thỉnh Thoảng Lại Trêu Ghẹo Tôi Bằng Tiếng Nga",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8e3e4986-d11b-4c21-9fb9-72087fe55ea8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "name": "shirakaba",
+    "series": [
+      {
+        "seriesTitle": "Dã Ngoại Nơi Mặt Sau Của Thế Giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-27d93ef7-dada-4bbc-ac8f-47d50b61b7b4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 121,
     "name": "Siso",
     "series": [
       {
@@ -940,35 +340,27 @@
     ]
   },
   {
-    "id": 89,
-    "name": "Koshijima Hagu",
+    "id": 120,
+    "name": "Shiina Kuro",
     "series": [
       {
-        "seriesTitle": "Tiệm Sách Cũ Biblia",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-58f6ba9d-5e74-4873-8f1d-e4ce529ad923.jpg"
-      },
-      {
-        "seriesTitle": "Dear",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-06bd97d0-f6c1-44d5-869a-f7cc87a9ae0f.jpg"
-      },
-      {
-        "seriesTitle": "Hãy Đi Đi, Xanh Biếc",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2d336fe2-7aab-4983-b4bd-52fde9b77f6e.jpg"
+        "seriesTitle": "Ai Dám Bảo Rom-com Không Có Ngoài Đời Thực?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1651d341-61e3-4aaa-953c-e4d0628daf35.jpg"
       }
     ]
   },
   {
-    "id": 90,
-    "name": "Kabocha",
+    "id": 119,
+    "name": "Yamako",
     "series": [
       {
-        "seriesTitle": "Thuần Thú Sư Ở Dị Giới",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8fb6930b-214d-47d4-a50c-a86bf45892c2.jpg"
+        "seriesTitle": "Tập Tỏ Tình",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5a423185-3b71-477b-b366-efbfc6305695.jpg"
       }
     ]
   },
   {
-    "id": 91,
+    "id": 118,
     "name": "Trocchi",
     "series": [
       {
@@ -978,27 +370,57 @@
     ]
   },
   {
-    "id": 92,
-    "name": "Fuyuyuki",
+    "id": 117,
+    "name": "Kususaga Rin",
     "series": [
       {
-        "seriesTitle": "Công Cuộc Tái Thiết Vương Quốc Của Anh Hùng Chủ Nghĩa Hiện Thực",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c7755da3-fe75-432f-9c4d-bcbcc8e5d28e.jpg"
+        "seriesTitle": "Thánh Hiệp Sĩ Nơi Tận Cùng Thế Giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8093d09c-67b3-4bce-a3c3-c70588c5fef7.jpg"
       }
     ]
   },
   {
-    "id": 93,
-    "name": "Fal Maro",
+    "id": 116,
+    "name": "Tatekawa Mako",
     "series": [
       {
-        "seriesTitle": "Hoàng Tử Thiên Tài - Hành Trình Gây Dựng Lại Đất Nước Đang Lâm Nguy",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b6dd7726-025e-45f5-86c4-3a5f0c975fdd.jpg"
+        "seriesTitle": "Cô Nàng Otaku Nhà Tôi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-13ed0b57-d854-4a7f-aa8a-69781779acf8.jpg"
       }
     ]
   },
   {
-    "id": 94,
+    "id": 115,
+    "name": "raemz",
+    "series": [
+      {
+        "seriesTitle": "Chitose Trong Chai Ramune",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9375dcc8-78a6-4247-a52b-e217ab35aebf.jpg"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tomose Shunsaku",
+    "series": [
+      {
+        "seriesTitle": "Chào Mừng Đến Lớp Học Đề Cao Thực Lực",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9557c3a9-a801-4912-ba18-939919eaf915.jpg"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Peroshi",
+    "series": [
+      {
+        "seriesTitle": "Hành Trình Trở Thành Nhà Thám Hiểm Của Chàng Lính Đánh Thuê Bần Hàn",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a4f98c25-2f25-4f10-a7f2-6bb511cdd026.jpg"
+      }
+    ]
+  },
+  {
+    "id": 112,
     "name": "Junsui",
     "series": [
       {
@@ -1008,71 +430,41 @@
     ]
   },
   {
-    "id": 95,
-    "name": "Tetsuo",
+    "id": 111,
+    "name": "Shiina You",
     "series": [
       {
-        "seriesTitle": "Sakurako Và Bộ Xương Dưới Gốc Anh Đào",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-91fef45d-bfb5-4fcb-b03b-b0aedb357ce0.jpg"
+        "seriesTitle": "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bcdc41aa-c533-4830-8e7f-d453fd0af938.jpg"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Marui-no",
+    "series": [
+      {
+        "seriesTitle": "Ma Pháp Thiếu Nữ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4cc7956b-99f6-4df1-a384-2e0630676a5d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "VOFAN",
+    "series": [
+      {
+        "seriesTitle": "Bakemonogatari",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-835bc5c6-928b-45ed-919f-bce6c78a1bae.jpg"
       },
       {
-        "seriesTitle": "Chiếc Hộp Rỗng Và Maria Lần 0",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bf928040-da88-469e-8088-84054ca1aa7d.jpg"
+        "seriesTitle": "Okitegami Kyoko",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c74ee7b2-3bb2-4a62-829f-56a4166a8d23.jpg"
       }
     ]
   },
   {
-    "id": 96,
-    "name": "Nardack",
-    "series": [
-      {
-        "seriesTitle": "World Teacher",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e17a1409-31eb-4f94-9cee-a8a2e8482933.jpg"
-      }
-    ]
-  },
-  {
-    "id": 97,
-    "name": "ue",
-    "series": [
-      {
-        "seriesTitle": "Tận Thế Nếu Không Bận, Anh Cứu Chúng Em Nhé?",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-21f8f20a-fa91-427b-baf9-b49b4f9f3b46.jpg"
-      }
-    ]
-  },
-  {
-    "id": 98,
-    "name": "Ayakura Juu",
-    "series": [
-      {
-        "seriesTitle": "Sói Và Gia Vị",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6a2714f0-05c3-4954-8396-53f3bd2d82cf.jpg"
-      }
-    ]
-  },
-  {
-    "id": 99,
-    "name": "Haga Yui",
-    "series": [
-      {
-        "seriesTitle": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-19c5e228-c28a-43e7-852e-ddf3bf4087b9.jpg"
-      }
-    ]
-  },
-  {
-    "id": 100,
-    "name": "Fuumi",
-    "series": [
-      {
-        "seriesTitle": "Ma Vương Kiến Tạo - Hầm Ngục Kiên Cố Nhất Chính Là Thành Phố Hiện Đại",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a5248f03-ab69-4600-a2d9-3824d9fbbdd9.jpg"
-      }
-    ]
-  },
-  {
-    "id": 101,
+    "id": 108,
     "name": "mebae",
     "series": [
       {
@@ -1082,37 +474,135 @@
     ]
   },
   {
-    "id": 102,
-    "name": "Tamago no Kimi",
+    "id": 107,
+    "name": "Shino Touko",
     "series": [
       {
-        "seriesTitle": "Biên Niên Sử Đế Chế Alexis",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a3262133-8da8-41ec-ae14-41e3dad11be4.jpg"
+        "seriesTitle": "Dược Sư Tự Sự",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-94648814-d84d-46c9-a912-569b9c41ab89.jpg"
       }
     ]
   },
   {
-    "id": 103,
-    "name": "Nishieda",
+    "id": 106,
+    "name": "Hanekoto",
     "series": [
       {
-        "seriesTitle": "Chuyển Sinh Làm Người Sói, Tôi Trở Thành Cánh Tay Phải Của Ma Vương",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9939cae6-05a9-4c83-8019-acbbee7e0cfd.jpg"
-      }
-    ]
-  },
-  {
-    "id": 104,
-    "name": "Ruroo",
-    "series": [
-      {
-        "seriesTitle": "Bạn Gái Vs. Bạn Thời Thơ Ấu",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f38fc32e-d672-4a5c-940b-d3d39e22e9ce.jpg"
+        "seriesTitle": "Thiên Sứ Nhà Bên",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f99df940-0b5d-4a97-a7b3-6a2e37e402f4.jpg"
       }
     ]
   },
   {
     "id": 105,
+    "name": "Hanagata",
+    "series": [
+      {
+        "seriesTitle": "Tôi Yêu Nữ Phản Diện",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c8da76aa-1dd6-4e96-b394-3844b9e71581.jpg"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Harukawa35",
+    "series": [
+      {
+        "seriesTitle": "Văn Hào Lưu Lạc",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d1bf8822-2f5e-47a1-be03-e4fd2c55af8d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Fly",
+    "series": [
+      {
+        "seriesTitle": "Nhân Vật Hạ Cấp Tomozaki",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-96ce37de-b302-4df5-ad9c-f8e1489cca4c.jpg"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Shibano Kaito",
+    "series": [
+      {
+        "seriesTitle": "Anh Hùng Diệt Thần & Bảy Thệ Ước",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a038c7fb-913b-4818-bf3a-786caa754685.jpg"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "booota",
+    "series": [
+      {
+        "seriesTitle": "Subaru Và Vì Tinh Tú Thứ 7",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2c748dd5-6a37-498f-a59b-9bc34088e402.jpg"
+      },
+      {
+        "seriesTitle": "Mùa Hè Thứ Hai, Mất Em Mãi Mãi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9c1f2dad-537a-4728-8b0a-01be823ccf49.jpg"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Tomari",
+    "series": [
+      {
+        "seriesTitle": "Spy Room - Lớp Học Điệp Viên",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3df5a4ba-fc34-4363-bd67-648e6fd8d0d6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Umibouzu",
+    "series": [
+      {
+        "seriesTitle": "Thám Tử Đã Chết",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-fc9e439d-b870-48be-a104-92638f5f7148.jpg"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Kabocha",
+    "series": [
+      {
+        "seriesTitle": "Thuần Thú Sư Ở Dị Giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1efa4458-df90-4085-af71-f278df623ba3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Kinta",
+    "series": [
+      {
+        "seriesTitle": "Bị Đuổi Khỏi Nhóm Anh Hùng, Tôi Muốn Sống Tự Do Tự Tại Ở Vương Đô",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-768b63b8-5f3c-4001-a770-e8fe24a0b4a1.jpg"
+      },
+      {
+        "seriesTitle": "Lãnh Chúa Vùng Đất Không Cư Dân",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0a998da0-f745-4aff-96ac-c24799085038.jpg"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Fal Maro",
+    "series": [
+      {
+        "seriesTitle": "Hoàng Tử Thiên Tài - Hành Trình Gây Dựng Lại Đất Nước Đang Lâm Nguy",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5251a3b7-a397-4fcf-b022-c8dab91aeccc.jpg"
+      }
+    ]
+  },
+  {
+    "id": 95,
     "name": "Yoneyama Mai",
     "series": [
       {
@@ -1122,7 +612,21 @@
     ]
   },
   {
-    "id": 106,
+    "id": 94,
+    "name": "loundraw",
+    "series": [
+      {
+        "seriesTitle": "Em Là Ánh Sáng Giữa Đêm Trăng",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6b83ee96-318f-4f7c-9795-43c1709955ac.jpg"
+      },
+      {
+        "seriesTitle": "Phép Thuật Chỉ Chạm Tới Bán Kính Của Anh Và Em",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-b4fb267c-c3a8-4cbd-a811-666964559ce7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 93,
     "name": "Machimura Komori",
     "series": [
       {
@@ -1132,51 +636,27 @@
     ]
   },
   {
-    "id": 107,
-    "name": "G-Yuusuke",
+    "id": 92,
+    "name": "Mitz Vah",
     "series": [
       {
-        "seriesTitle": "Ẩn tàng thư Dantalian",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e71b5727-78a4-46ae-a8ad-4e27a987e8cf.jpg"
+        "seriesTitle": "Về Chuyện Tôi Chuyển Sinh Thành Slime",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a14a2351-1d06-41b8-b83f-46e4e2c518c1.jpg"
       }
     ]
   },
   {
-    "id": 108,
-    "name": "Caro",
+    "id": 91,
+    "name": "Taiki",
     "series": [
       {
-        "seriesTitle": "Tôi Thích Một Cô Gái Nhưng Chẳng Dám Ngỏ Lời",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-87d0a6c8-116c-47d6-92ad-1d04bae8f572.jpg"
+        "seriesTitle": "Infinite Dendrogram",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2ce92509-51f8-4b42-93dd-842b96641a8d.jpg"
       }
     ]
   },
   {
-    "id": 109,
-    "name": "Usatsuka Eiji",
-    "series": [
-      {
-        "seriesTitle": "Đến Thế Giới Mới Với Smartphone",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-174cc321-8a9d-478d-8ccb-fc402c50fce8.jpg"
-      }
-    ]
-  },
-  {
-    "id": 110,
-    "name": "Gemi",
-    "series": [
-      {
-        "seriesTitle": "Thế Giới Đầy「Khoảng Trống」",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1f40a655-d26e-4d66-a6ee-b925178b28a3.jpg"
-      },
-      {
-        "seriesTitle": "Vào Đêm Trăng Xanh, Tôi Lại Yêu Em Thêm Lần Nữa",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2b374222-3c5a-442b-97f9-61a7e7119011.jpg"
-      }
-    ]
-  },
-  {
-    "id": 111,
+    "id": 90,
     "name": "Himura Kiseki",
     "series": [
       {
@@ -1186,37 +666,57 @@
     ]
   },
   {
-    "id": 112,
-    "name": "Xuanlocxuan",
+    "id": 89,
+    "name": "Saboten",
     "series": [
       {
-        "seriesTitle": "Dù Được Ban Đôi Cánh",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b0f48d0b-b83d-4f4b-80a6-ca3a7167915a.jpg"
-      },
-      {
-        "seriesTitle": "Khoảng Cách Giữa Hai Người",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2594f3f1-f38f-4f7f-8cce-3a094ab39d31.jpg"
-      },
-      {
-        "seriesTitle": "Búp Bê Đi Đường Vòng",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d33b7c59-00df-4138-8368-588e8810daed.jpg"
-      },
-      {
-        "seriesTitle": "Trình tự Kudryavka",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d35d1245-27b5-465b-84a4-0acfbbdc0787.jpg"
-      },
-      {
-        "seriesTitle": "Thằng Khờ",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b58b07a4-56af-4797-8ab4-a1a7ea63d08f.jpg"
-      },
-      {
-        "seriesTitle": "Kem Đá",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-52278114-4c78-4cdd-a5f7-eab2f20859a7.jpg"
+        "seriesTitle": "Gamers!",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3db9a21b-455e-4da6-8bbc-44cb89bdcddc.jpg"
       }
     ]
   },
   {
-    "id": 113,
+    "id": 88,
+    "name": "Mizoguchi Keeji",
+    "series": [
+      {
+        "seriesTitle": "Hội Chứng Tuổi Thanh Xuân",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3c17c645-f5fa-48da-9d3f-778073ff5835.jpg"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Monda",
+    "series": [
+      {
+        "seriesTitle": "Thế Giới Otome Game Thật Khắc Nghiệt Với Nhân Vật Quần Chúng",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e31a38fd-86e5-44fe-bd34-911bbe52304d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "So-bin",
+    "series": [
+      {
+        "seriesTitle": "OVERLORD",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-733b4ea2-2a81-4656-b398-ee4c91969259.jpg"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Takaya-Ki",
+    "series": [
+      {
+        "seriesTitle": "Arifureta - Từ Tầm Thường Đến Bất Khả Chiến Bại",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b9e4cf06-4592-45ee-aa87-88ca861d1798.jpg"
+      }
+    ]
+  },
+  {
+    "id": 84,
     "name": "shimano",
     "series": [
       {
@@ -1230,27 +730,17 @@
     ]
   },
   {
-    "id": 114,
-    "name": "Yamada",
+    "id": 83,
+    "name": "Murata Renji",
     "series": [
       {
-        "seriesTitle": "Re:Monster - Hồi Sinh Thành Quái Vật",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-385f7a89-5224-4049-89ef-341c908ac04d.jpg"
+        "seriesTitle": "Cop Craft - Cảnh Sát Đến Từ Hai Thế Giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-71e2ebb7-7cad-4aed-8bf2-1f45e48b1edb.jpg"
       }
     ]
   },
   {
-    "id": 115,
-    "name": "Paseri",
-    "series": [
-      {
-        "seriesTitle": "Amaryllis Ở Xứ Sở Băng Giá",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f5618d07-f703-4f6b-8e2e-d4e4eb2bcc63.jpg"
-      }
-    ]
-  },
-  {
-    "id": 116,
+    "id": 82,
     "name": "syo5",
     "series": [
       {
@@ -1260,17 +750,61 @@
     ]
   },
   {
-    "id": 117,
-    "name": "Shimada Fumikane",
+    "id": 81,
+    "name": "Paseri",
     "series": [
       {
-        "seriesTitle": "Thiếu Nữ & Chiến Xa",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-37f8ed42-de89-4783-956d-9cf630f03ed0.jpg"
+        "seriesTitle": "Amaryllis Ở Xứ Sở Băng Giá",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f5618d07-f703-4f6b-8e2e-d4e4eb2bcc63.jpg"
       }
     ]
   },
   {
-    "id": 118,
+    "id": 80,
+    "name": "Gemi",
+    "series": [
+      {
+        "seriesTitle": "Vào Đêm Trăng Xanh, Tôi Lại Yêu Em Thêm Lần Nữa",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2b374222-3c5a-442b-97f9-61a7e7119011.jpg"
+      },
+      {
+        "seriesTitle": "Thế Giới Đầy「Khoảng Trống」",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1f40a655-d26e-4d66-a6ee-b925178b28a3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "ue",
+    "series": [
+      {
+        "seriesTitle": "Tận Thế Nếu Không Bận, Anh Cứu Chúng Em Nhé?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f89ac381-ff24-4ae3-bc77-b5574cdb1459.jpg"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Yamouchishizu",
+    "series": [
+      {
+        "seriesTitle": "Holmes Ở Kyoto",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6cffc846-d7df-4b00-96f1-3b611c181b84.jpg"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "KeG",
+    "series": [
+      {
+        "seriesTitle": "Hiệp Sĩ Xương Trên Đường Du Hành Đến Thế Giới Khác",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c9609168-a1f2-4412-bf3c-492f98cb66e0.jpg"
+      }
+    ]
+  },
+  {
+    "id": 76,
     "name": "Oguchi",
     "series": [
       {
@@ -1280,17 +814,21 @@
     ]
   },
   {
-    "id": 119,
-    "name": "Takeuchi Takashi",
+    "id": 75,
+    "name": "Take",
     "series": [
       {
-        "seriesTitle": "Fate/Zero",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-03020132-23f2-43e5-8cb4-37b9953b904c.jpg"
+        "seriesTitle": "Lời Nói Đùa",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-63c04782-40ac-44f2-8d71-e548cd71438d.jpg"
+      },
+      {
+        "seriesTitle": "Đao Ngữ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-ea6fcb0a-294b-475c-b34c-4e8073281eb4.jpg"
       }
     ]
   },
   {
-    "id": 120,
+    "id": 74,
     "name": "Shiromizakana",
     "series": [
       {
@@ -1300,37 +838,31 @@
     ]
   },
   {
-    "id": 121,
-    "name": "Goto-P",
+    "id": 73,
+    "name": "Fuyuyuki",
     "series": [
       {
-        "seriesTitle": "Narcissu",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3c1e738b-5cd9-4396-8b29-932fe21f9643.jpg"
+        "seriesTitle": "Công Cuộc Tái Thiết Vương Quốc Của Anh Hùng Chủ Nghĩa Hiện Thực",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-ae200c65-2005-41da-ab62-263eefd2a942.jpg"
       }
     ]
   },
   {
-    "id": 122,
-    "name": "H2SO4",
+    "id": 72,
+    "name": "Yasuda Suzuhito",
     "series": [
       {
-        "seriesTitle": "Ngày Mai, Tôi Biến Mất, Cậu Sẽ Hồi Sinh",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a18ee140-abff-4990-b42f-1940850c1f29.jpg"
+        "seriesTitle": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9a0a63a4-7258-40ea-9b61-6eb25b96ebcf.jpg"
+      },
+      {
+        "seriesTitle": "Durarara!!",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-96de4480-a97f-4905-8c4b-cf05a0634988.jpg"
       }
     ]
   },
   {
-    "id": 123,
-    "name": "Haimura Kiyotaka",
-    "series": [
-      {
-        "seriesTitle": "Cấm Thư Ma Thuật Index",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c7bba5ae-33bc-47fe-8dbc-3b56400257ca.jpg"
-      }
-    ]
-  },
-  {
-    "id": 124,
+    "id": 71,
     "name": "Wannyanpu",
     "series": [
       {
@@ -1340,17 +872,37 @@
     ]
   },
   {
-    "id": 125,
-    "name": "Kochimo",
+    "id": 70,
+    "name": "Goto-P",
     "series": [
       {
-        "seriesTitle": "Rừng Taiga",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-68b15fba-1fe2-4620-a401-345785a68a8c.jpg"
+        "seriesTitle": "Narcissu",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3c1e738b-5cd9-4396-8b29-932fe21f9643.jpg"
       }
     ]
   },
   {
-    "id": 126,
+    "id": 69,
+    "name": "Caro",
+    "series": [
+      {
+        "seriesTitle": "Tôi Thích Một Cô Gái Nhưng Chẳng Dám Ngỏ Lời",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-259abf09-95e7-42db-8ec1-af5ad78f6926.jpg"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Shimada Fumikane",
+    "series": [
+      {
+        "seriesTitle": "Thiếu Nữ & Chiến Xa",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-da3a8028-36b3-41d3-ad2f-f2d52882eeef.jpg"
+      }
+    ]
+  },
+  {
+    "id": 67,
     "name": "Hirasato",
     "series": [
       {
@@ -1360,7 +912,17 @@
     ]
   },
   {
-    "id": 127,
+    "id": 66,
+    "name": "Nardack",
+    "series": [
+      {
+        "seriesTitle": "World Teacher",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cdf45e48-a907-4d44-b5a8-464e99d71108.jpg"
+      }
+    ]
+  },
+  {
+    "id": 65,
     "name": "Morisawa Haruyuki",
     "series": [
       {
@@ -1370,17 +932,61 @@
     ]
   },
   {
-    "id": 128,
-    "name": "Gia",
+    "id": 64,
+    "name": "Matsumoto Mitsuaki",
     "series": [
       {
-        "seriesTitle": "The Dungeon Seeker",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9fa68ac6-86d7-4e28-87c7-5d3935043409.jpg"
+        "seriesTitle": "Nguyệt Đạo Dị Giới",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bbdf7ae6-ea79-4cfc-8ef2-2d3638d5d86c.jpg"
       }
     ]
   },
   {
-    "id": 129,
+    "id": 63,
+    "name": "Kochimo",
+    "series": [
+      {
+        "seriesTitle": "Rừng Taiga",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-78be4da5-28bf-4736-a333-d3ec3c2579ac.jpg"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Shinotsuki Shinobu",
+    "series": [
+      {
+        "seriesTitle": "Tanya Chiến Ký",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-78acaecc-1117-4208-8672-8b6bf1444828.jpg"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Zaza",
+    "series": [
+      {
+        "seriesTitle": "Chủ Tiệm Bánh Chiến Binh Và Cô Phục Vụ Người Máy",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e2f69a40-c779-41a1-9e33-57fcde03d33b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Tetsuo",
+    "series": [
+      {
+        "seriesTitle": "Sakurako Và Bộ Xương Dưới Gốc Anh Đào",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-189fcf71-f310-43a3-9f8d-24f45642b571.jpg"
+      },
+      {
+        "seriesTitle": "Chiếc Hộp Rỗng Và Maria Lần 0",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b20c60cf-8fb3-4978-a1cb-4c02e14a9c7c.jpg"
+      }
+    ]
+  },
+  {
+    "id": 59,
     "name": "Jiyu02",
     "series": [
       {
@@ -1390,37 +996,7 @@
     ]
   },
   {
-    "id": 130,
-    "name": "Sumi Keiichi",
-    "series": [
-      {
-        "seriesTitle": "Phù Thủy Trắng Định Tội",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0a87f4aa-aef6-4b5b-861c-2bd8b15548c3.jpg"
-      }
-    ]
-  },
-  {
-    "id": 131,
-    "name": "refeia",
-    "series": [
-      {
-        "seriesTitle": "Khúc Nguyền Ca Của Thánh Kiếm Sĩ",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-401b2d92-37b5-42c5-a006-19dcb7f702cb.jpg"
-      }
-    ]
-  },
-  {
-    "id": 132,
-    "name": "Kuroboshi Kouhaku",
-    "series": [
-      {
-        "seriesTitle": "Kino Du Ký",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b91b252e-b2b6-4eab-8960-26f1aac11dd0.jpg"
-      }
-    ]
-  },
-  {
-    "id": 133,
+    "id": 58,
     "name": "Shion",
     "series": [
       {
@@ -1430,37 +1006,17 @@
     ]
   },
   {
-    "id": 134,
-    "name": "Nakajima Yuka",
+    "id": 57,
+    "name": "Sumi Keiichi",
     "series": [
       {
-        "seriesTitle": "Amagi Công Viên Rực Rỡ",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-fa57bffb-6e09-421f-9861-0535605c7314.jpg"
+        "seriesTitle": "Phù Thủy Trắng Định Tội",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0a87f4aa-aef6-4b5b-861c-2bd8b15548c3.jpg"
       }
     ]
   },
   {
-    "id": 135,
-    "name": "Kirouran",
-    "series": [
-      {
-        "seriesTitle": "Khách Sạn Yêu Quái Ở Izumo",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8dc96c3f-4dc6-4fad-ae2b-9292069c13e2.png"
-      }
-    ]
-  },
-  {
-    "id": 136,
-    "name": "Kasuga Ayumu",
-    "series": [
-      {
-        "seriesTitle": "Kỵ Sĩ Rồng Bất Bại",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3b83bae8-19b8-4f82-85bf-b3042ec9063c.jpg"
-      }
-    ]
-  },
-  {
-    "id": 137,
+    "id": 56,
     "name": "Nakamura Yukihiro",
     "series": [
       {
@@ -1470,7 +1026,31 @@
     ]
   },
   {
-    "id": 138,
+    "id": 55,
+    "name": "Nishieda",
+    "series": [
+      {
+        "seriesTitle": "Chuyển Sinh Làm Người Sói, Tôi Trở Thành Cánh Tay Phải Của Ma Vương",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f62a314e-5c5f-4e1e-9ddd-6684fca90b23.jpg"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Eihi",
+    "series": [
+      {
+        "seriesTitle": "Chàng thẩm định viên và Nữ tác giả tập sự",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u1-05ae3d8a-0e6f-423e-85a1-e86efaebd43f.jpeg"
+      },
+      {
+        "seriesTitle": "Số Phận Của Vị Hôn Thê",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cf44502b-5e4f-49f9-9675-7754d960e4ee.jpg"
+      }
+    ]
+  },
+  {
+    "id": 53,
     "name": "E9L",
     "series": [
       {
@@ -1480,7 +1060,125 @@
     ]
   },
   {
-    "id": 139,
+    "id": 52,
+    "name": "Shirai Eiri",
+    "series": [
+      {
+        "seriesTitle": "Grimgar - Ảo Ảnh Và Tro Tàn",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-18df4086-ed2b-45b6-b3f3-1723011cd641.jpg"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Gia",
+    "series": [
+      {
+        "seriesTitle": "The Dungeon Seeker",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0aea5541-48a2-4883-9dec-7b8901f63075.jpg"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nakajima Yuka",
+    "series": [
+      {
+        "seriesTitle": "Amagi Công Viên Rực Rỡ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-29c0c254-305f-4bb4-8ae1-638362687a64.jpg"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "G-Yuusuke",
+    "series": [
+      {
+        "seriesTitle": "Ẩn tàng thư Dantalian",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4b06b8d2-abb6-4de3-9155-4f020c377c21.jpg"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "H2SO4",
+    "series": [
+      {
+        "seriesTitle": "Ngày Mai, Tôi Biến Mất, Cậu Sẽ Hồi Sinh",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-75b1b674-0e76-4962-9375-b95f7881888d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Tsukasa Kiryuu",
+    "series": [
+      {
+        "seriesTitle": "Tôi Là Nhện Đấy, Có Sao Không?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e6d2a094-dc41-449d-90d7-b18b3762343f.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Shirabii",
+    "series": [
+      {
+        "seriesTitle": "Công Việc Của Long Vương",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8ab143f7-f4cf-4b68-874d-bcb1a13983c6.jpg"
+      },
+      {
+        "seriesTitle": "86 Eighty Six",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7811fc23-ce68-4189-96e8-80374387c9ad.jpg"
+      },
+      {
+        "seriesTitle": "Mê Cung Thư Viện",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-180094fa-98b0-4c81-87d6-34022681e405.jpg"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Ishida Kana",
+    "series": [
+      {
+        "seriesTitle": "Kẻ Dị Biệt Tại Trường Học Phép Thuật",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-815c3768-b2b4-419d-ba76-b4c60e2edf85.jpg"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Kuroboshi Kouhaku",
+    "series": [
+      {
+        "seriesTitle": "Kino Du Ký",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1801d4c1-e891-4f89-b139-75615be62684.jpg"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Truffle, Kei",
+    "series": [
+      {
+        "seriesTitle": "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-30e343df-23b1-454d-b932-d9333785148a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Ruroo",
+    "series": [
+      {
+        "seriesTitle": "Bạn Gái Vs. Bạn Thời Thơ Ấu",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-90631fb0-eaaa-4d13-9964-40ffa0098e95.jpg"
+      }
+    ]
+  },
+  {
+    "id": 41,
     "name": "Kurono Kuro",
     "series": [
       {
@@ -1490,17 +1188,7 @@
     ]
   },
   {
-    "id": 140,
-    "name": "Achiki",
-    "series": [
-      {
-        "seriesTitle": "Quán Ăn Xuyên Không",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b334045e-d62d-4f67-8d18-dc9f9335824e.jpg"
-      }
-    ]
-  },
-  {
-    "id": 141,
+    "id": 40,
     "name": "Moralatte",
     "series": [
       {
@@ -1510,7 +1198,17 @@
     ]
   },
   {
-    "id": 142,
+    "id": 39,
+    "name": "Achiki",
+    "series": [
+      {
+        "seriesTitle": "Quán Ăn Xuyên Không",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b334045e-d62d-4f67-8d18-dc9f9335824e.jpg"
+      }
+    ]
+  },
+  {
+    "id": 38,
     "name": "Banpai Akira",
     "series": [
       {
@@ -1520,7 +1218,7 @@
     ]
   },
   {
-    "id": 143,
+    "id": 37,
     "name": "Ueda Ryo",
     "series": [
       {
@@ -1530,17 +1228,47 @@
     ]
   },
   {
-    "id": 144,
-    "name": "Arisaka Ako",
+    "id": 36,
+    "name": "Tamago no Kimi",
     "series": [
       {
-        "seriesTitle": "Nhật Ký Giấc Mơ – Trong Giấc Mơ Của Bạn, Tôi Không Tồn Tại",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-99b04f65-3b0d-4eae-a500-3e21105f5133.jpg"
+        "seriesTitle": "Biên Niên Sử Đế Chế Alexis",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cf403b4b-f270-4b70-97f5-34dd61f60c07.jpg"
       }
     ]
   },
   {
-    "id": 145,
+    "id": 35,
+    "name": "Tsunako",
+    "series": [
+      {
+        "seriesTitle": "Date A Live",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-41d54724-a17b-4cb1-87f3-bf68aa68df3c.jpg"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Haimura Kiyotaka",
+    "series": [
+      {
+        "seriesTitle": "Cấm Thư Ma Thuật Index",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-83c6022e-3512-406d-9d5d-7786a9261e15.jpg"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Usatsuka Eiji",
+    "series": [
+      {
+        "seriesTitle": "Đến Thế Giới Mới Với Smartphone",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4c8351d5-455c-49e7-b259-1daa86c7753e.jpg"
+      }
+    ]
+  },
+  {
+    "id": 32,
     "name": "Houmitsu",
     "series": [
       {
@@ -1550,17 +1278,121 @@
     ]
   },
   {
-    "id": 146,
-    "name": "Ito Noizi",
+    "id": 31,
+    "name": "Arisaka Ako",
     "series": [
       {
-        "seriesTitle": "Suzumiya Haruhi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-ee3a8979-a49b-40f5-bd58-d8c660abfc88.jpg"
+        "seriesTitle": "Nhật Ký Giấc Mơ – Trong Giấc Mơ Của Bạn, Tôi Không Tồn Tại",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-99b04f65-3b0d-4eae-a500-3e21105f5133.jpg"
       }
     ]
   },
   {
-    "id": 147,
+    "id": 30,
+    "name": "Benio",
+    "series": [
+      {
+        "seriesTitle": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f8960074-3a2e-4c6f-b73a-fda909eb4b2f.jpg"
+      },
+      {
+        "seriesTitle": "Làm Bạn Thân Có Khó Không?",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-919fca82-7f8e-44c1-ae75-b898ac4a8bfd.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Yamada",
+    "series": [
+      {
+        "seriesTitle": "Re:Monster - Hồi Sinh Thành Quái Vật",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-39610eac-8bfa-427f-80ce-3e5868b1c926.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Fuumi",
+    "series": [
+      {
+        "seriesTitle": "Ma Vương Kiến Tạo - Hầm Ngục Kiên Cố Nhất Chính Là Thành Phố Hiện Đại",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8ed1a920-53d5-427d-a1ef-a786b4de1494.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ponkan⑧",
+    "series": [
+      {
+        "seriesTitle": "Chuyện Tình Thanh Xuân Bi Hài Của Tôi Quả Nhiên Là Sai Lầm",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9950a483-ecb4-4c27-9ea4-f3388ab20f3c.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Azure",
+    "series": [
+      {
+        "seriesTitle": "Hành Trình Của Elaina",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bfcb619e-1f6e-48a3-acd4-188c4e1d4065.jpg"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "refeia",
+    "series": [
+      {
+        "seriesTitle": "Khúc Nguyền Ca Của Thánh Kiếm Sĩ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-70b541a4-5d23-4163-a565-a1b6dea0aa64.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Kirouran",
+    "series": [
+      {
+        "seriesTitle": "Khách Sạn Yêu Quái Ở Izumo",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-43972bf1-f809-49b6-8405-16bb3abede22.jpg"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Takeuchi Takashi",
+    "series": [
+      {
+        "seriesTitle": "Fate/Zero",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c604d856-7754-4d2b-9602-b63c2d605e43.jpg"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Otsuka Shinichirou",
+    "series": [
+      {
+        "seriesTitle": "Re:Zero - Bắt Đầu Lại Ở Thế Giới Khác",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e9a140bb-4d2e-451e-bd95-0db9f3f78b8b.jpg"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Kasuga Ayumu",
+    "series": [
+      {
+        "seriesTitle": "Kỵ Sĩ Rồng Bất Bại",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-647b6fdf-78ce-4e7d-85ef-15f805ed136a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 20,
     "name": "Hasumi Miyako",
     "series": [
       {
@@ -1570,7 +1402,31 @@
     ]
   },
   {
-    "id": 148,
+    "id": 19,
+    "name": "Tokiumi Yui",
+    "series": [
+      {
+        "seriesTitle": "Orange - Lá Thư Từ Tương Lai",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-52a214b4-0c14-49cd-a264-d5645f13b5a8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "029",
+    "series": [
+      {
+        "seriesTitle": "Cuộc Chiến Siêu Nhiên Giữa Đời Thường",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7ca01904-5924-41bf-a032-5ef2177ea774.jpg"
+      },
+      {
+        "seriesTitle": "Ma Vương Đi Làm!",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-508d3f53-a76d-4707-888b-4666cd1448bb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 17,
     "name": "Obata Takeshi, Abe Yoshitoshi",
     "series": [
       {
@@ -1580,37 +1436,89 @@
     ]
   },
   {
-    "id": 149,
-    "name": "Tokiumi Yui",
+    "id": 16,
+    "name": "Xuanlocxuan",
     "series": [
       {
-        "seriesTitle": "Orange - Lá Thư Từ Tương Lai (Boxset 3 tập)",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-52a214b4-0c14-49cd-a264-d5645f13b5a8.jpg"
+        "seriesTitle": "Kem Đá",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-52278114-4c78-4cdd-a5f7-eab2f20859a7.jpg"
+      },
+      {
+        "seriesTitle": "Thằng Khờ",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b58b07a4-56af-4797-8ab4-a1a7ea63d08f.jpg"
+      },
+      {
+        "seriesTitle": "Trình tự Kudryavka",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d35d1245-27b5-465b-84a4-0acfbbdc0787.jpg"
+      },
+      {
+        "seriesTitle": "Búp Bê Đi Đường Vòng",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d33b7c59-00df-4138-8368-588e8810daed.jpg"
+      },
+      {
+        "seriesTitle": "Khoảng Cách Giữa Hai Người",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2594f3f1-f38f-4f7f-8cce-3a094ab39d31.jpg"
+      },
+      {
+        "seriesTitle": "Dù Được Ban Đôi Cánh",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b0f48d0b-b83d-4f4b-80a6-ca3a7167915a.jpg"
       }
     ]
   },
   {
-    "id": 150,
-    "name": "Komine, Saine",
+    "id": 15,
+    "name": "Koshijima Hagu",
     "series": [
       {
-        "seriesTitle": "Cuốn Sách Của Sự Kết Thúc",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e167f844-4278-4a57-851a-5b19216580f2.jpg"
+        "seriesTitle": "Tiệm Sách Cũ Biblia",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-00ef105a-626d-4dd5-a848-ccb9328c46c4.jpg"
+      },
+      {
+        "seriesTitle": "Hãy Đi Đi, Xanh Biếc",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2d336fe2-7aab-4983-b4bd-52fde9b77f6e.jpg"
+      },
+      {
+        "seriesTitle": "Dear",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-06bd97d0-f6c1-44d5-869a-f7cc87a9ae0f.jpg"
       }
     ]
   },
   {
-    "id": 151,
-    "name": "Suzunosuke",
+    "id": 14,
+    "name": "Won",
     "series": [
       {
-        "seriesTitle": "Bí Mật Giao Ước Bóng Tối",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82d3abba-8231-4303-89ca-bfb74f9dabb9.jpg"
+        "seriesTitle": "Hiệp Sĩ Lưu Ban",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2c891bf5-8627-43f2-833f-0632bf440b45.jpg"
       }
     ]
   },
   {
-    "id": 152,
+    "id": 13,
+    "name": "Riv",
+    "series": [
+      {
+        "seriesTitle": "Pháp Sư Tokyo",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-81ded17b-6c78-435c-a632-dad7fa6d0a93.jpg"
+      },
+      {
+        "seriesTitle": "Tinh Linh Huyễn Tưởng Ký",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-42dbf5bb-9c42-40cb-8f6c-04fd7846a455.jpg"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ayakura Juu",
+    "series": [
+      {
+        "seriesTitle": "Sói Và Gia Vị",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2112f3a5-560a-45f5-8e88-ed927b4beb16.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
     "name": "Shiromiso",
     "series": [
       {
@@ -1620,17 +1528,37 @@
     ]
   },
   {
-    "id": 153,
-    "name": "Aruya",
+    "id": 10,
+    "name": "Haga Yui",
     "series": [
       {
-        "seriesTitle": "Câu Lạc Bộ Giỏi Và Sành Sỏi",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-326f509a-fecc-4b3d-a115-d52d29a652a0.jpg"
+        "seriesTitle": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d7bd9ee2-b65e-44f1-8de2-61c2feaa361c.jpg"
       }
     ]
   },
   {
-    "id": 154,
+    "id": 9,
+    "name": "Suzunosuke",
+    "series": [
+      {
+        "seriesTitle": "Bí Mật Giao Ước Bóng Tối",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82d3abba-8231-4303-89ca-bfb74f9dabb9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Komine, Saine",
+    "series": [
+      {
+        "seriesTitle": "Cuốn Sách Của Sự Kết Thúc",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d227689e-d15b-412d-9903-66791b207f05.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
     "name": "Yuu",
     "series": [
       {
@@ -1640,12 +1568,78 @@
     ]
   },
   {
-    "id": 155,
+    "id": 6,
+    "name": "abec",
+    "series": [
+      {
+        "seriesTitle": "Sword Art Online",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-10eca4cd-f576-41b0-8226-6020feb2f7e9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ito Noizi",
+    "series": [
+      {
+        "seriesTitle": "Suzumiya Haruhi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e654dd58-f376-471a-a6ca-aeb85e2387c7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Takeoka Miho",
+    "series": [
+      {
+        "seriesTitle": "Cô Gái Văn Chương",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-ecb05184-370d-4ca9-8523-8e4cf8caf6a1.jpg"
+      },
+      {
+        "seriesTitle": "Dưới Ánh Sáng Ma Pháp 0.2 Lux",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-faaee3dd-5c87-401b-986c-a8cb8b1b4836.jpg"
+      },
+      {
+        "seriesTitle": "Khi Hikaru Còn Trên Thế Gian Này",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f8a695c5-d2c1-489e-bccd-6bd5b36bc87e.jpg"
+      },
+      {
+        "seriesTitle": "Riku và Chise - Chàng Trai Phân Chia Thế Giới Và Cô Gái Trong Biệt Thự -",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3d8f3eff-3072-427d-ac60-1369a06e0fe6.jpg"
+      },
+      {
+        "seriesTitle": "Nàng Thợ May Tinh Linh",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7cf283b9-8b63-4719-8a8a-f4fb6e41999d.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Aruya",
+    "series": [
+      {
+        "seriesTitle": "Câu Lạc Bộ Giỏi Và Sành Sỏi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c7dd7ac1-fd4b-45c5-b0eb-e9fe46a1960f.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
     "name": "Aoyama Gosho",
     "series": [
       {
         "seriesTitle": "Thám Tử Lừng Danh Conan",
-        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8d6d28f7-4725-4ebb-afc3-d2f44e38399b.jpg"
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e1e9e228-3d0c-4375-95eb-d3d36fbd46ee.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "456",
+    "series": [
+      {
+        "seriesTitle": "Torinoko City - Thành phố bị bỏ rơi",
+        "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0d758a19-984b-4fd3-9f92-0eabc1f5a990.jpg"
       }
     ]
   }
