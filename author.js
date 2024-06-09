@@ -45,12 +45,6 @@ const seriesMap = {
     "Lá Thư Từ Tương Lai": "Orange - Lá Thư Từ Tương Lai",
 };
 
-const artistMap = {
-    "Booota": "booota",
-    "Tsurusaki Takahiro, Fumi": "Fuumi",
-    "Momoko": "Momoco",
-}
-
 async function fetchPageData(page) {
     const url = `${baseUrl}?page=${page}`;
     try {
@@ -62,7 +56,7 @@ async function fetchPageData(page) {
 
         $('.listall-item').each((index, element) => {
             let seriesTitle = $(element).find('.series-title .series-name').text().trim();
-            let artistName = $(element).find('.info-item:contains("Họa sĩ:") .info-value a').text().trim();
+            let authorName = $(element).find('.info-item:contains("Tác giả:") .info-value a').text().trim();
             const coverUrl = $(element).find('.series-cover .content.img-in-ratio').css('background-image');
             const coverUrlFormatted = coverUrl ? coverUrl.replace(/^url\(['"](.+)['"]\)$/, '$1') : '';
 
@@ -72,13 +66,10 @@ async function fetchPageData(page) {
             // Apply the series map exceptions
             Object.keys(seriesMap).forEach(name => seriesTitle = seriesTitle.includes(name) ? seriesMap[name] : seriesTitle)
 
-            // Apply the artist map exceptions
-            Object.keys(artistMap).forEach(name => artistName = artistName.includes(name) ? artistMap[name] : artistName)
-
 
             results.push({
                 seriesTitle: seriesTitle,
-                artistName: artistName,
+                authorName: authorName,
                 coverUrl: coverUrlFormatted
             });
         });
@@ -109,12 +100,12 @@ async function fetchAllPages() {
         }
     }
 
-    // Group by artist
-    const groupedByArtist = uniqueResults.reduce((acc, result) => {
-        if (!acc[result.artistName]) {
-            acc[result.artistName] = [];
+    // Group by author
+    const groupedByAuthor = uniqueResults.reduce((acc, result) => {
+        if (!acc[result.authorName]) {
+            acc[result.authorName] = [];
         }
-        acc[result.artistName].push({
+        acc[result.authorName].push({
             seriesTitle: result.seriesTitle,
             coverUrl: result.coverUrl
         });
@@ -122,25 +113,24 @@ async function fetchAllPages() {
     }, {});
 
     // Convert to desired format
-    const formattedResults = Object.entries(groupedByArtist)
-        .filter(([artistName]) => artistName !== "N/A" && artistName !== "Chưa rõ")
-        .map(([artistName, series], index) => ({
+    const formattedResults = Object.entries(groupedByAuthor)
+        .map(([authorName, series], index) => ({
             id: index + 1,
-            name: artistName,
+            name: authorName,
             series: series
         }));
 
     // Sort by number of series in descending order
-    // formattedResults.sort((a, b) => b.series.length - a.series.length);
+    formattedResults.sort((a, b) => b.series.length - a.series.length);
 
     return formattedResults;
 }
 
 async function saveToFile(data) {
     const jsonStr = JSON.stringify(data, null, 2);
-    fs.writeFile('illustrator_output.txt', jsonStr, (err) => {
+    fs.writeFile('author_output.txt', jsonStr, (err) => {
         if (err) throw err;
-        console.log('Data has been saved to illustrator_output.txt');
+        console.log('Data has been saved to author_output.txt');
     });
 }
 
