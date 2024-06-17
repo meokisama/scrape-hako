@@ -1,49 +1,10 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs');
+const path = require("path");
+const { seriesMap, maxPages, baseUrl } = require('./config');
 
 let dataList = [];
-const maxPages = 84;
-
-const seriesMap = {
-    "Lời Nói Đùa Tập": "Lời Nói Đùa",
-    "Sword Art Online": "Sword Art Online",
-    "Cô gái Văn Chương": "Cô Gái Văn Chương",
-    "Cô Gái Văn Chương": "Cô Gái Văn Chương",
-    "Suzumiya Haruhi": "Suzumiya Haruhi",
-    "Infinite Dendrogram": "Infinite Dendrogram",
-    "Arifureta": "Arifureta - Từ Tầm Thường Đến Bất Khả Chiến Bại",
-    "Cop Craft": "Cop Craft - Cảnh Sát Đến Từ Hai Thế Giới",
-    "Okitegami Kyoko": "Okitegami Kyoko",
-    "86": "86 Eighty Six",
-    "Tập Tỏ Tình": "Tập Tỏ Tình",
-    "Lớp Học Điệp Viên": "Spy Room - Lớp Học Điệp Viên",
-    "Tiệm Sách Cũ Biblia": "Tiệm Sách Cũ Biblia",
-    "Văn Hào Lưu Lạc": "Văn Hào Lưu Lạc",
-    "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách": "Cuộc Nổi Dậy Của Cô Nàng Mọt Sách",
-    "Date A Live": "Date A Live",
-    "Pháo Hoa, Ngắm Từ Dưới Hay Bên Cạnh": "Pháo Hoa, Ngắm Từ Dưới Hay Bên Cạnh",
-    "Đứa Con Của Thời Tiết": "Đứa Con Của Thời Tiết",
-    "Khi Hikaru Còn Trên Thế Gian Này": "Khi Hikaru Còn Trên Thế Gian Này",
-    "Death Note": "Death Note",
-    "5 Centimet Trên Giây": "5 Centimet Trên Giây",
-    "Rừng Taiga": "Rừng Taiga",
-    "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương": "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương",
-    "Another": "Another",
-    "Your Name": "Your Name",
-    "Khóa Chặt Cửa Nào Suzume": "Khóa Chặt Cửa Nào Suzume",
-    "Sứ Giả Bốn Mùa": "Sứ Giả Bốn Mùa",
-    "Ma Vương Kiến Tạo": "Ma Vương Kiến Tạo - Hầm Ngục Kiên Cố Nhất Chính Là Thành Phố Hiện Đại",
-    "Grimgar": "Grimgar - Ảo Ảnh Và Tro Tàn",
-    "Từ Tân Thế Giới": "Từ Tân Thế Giới",
-    "Gia Tộc Thần Bí": "Gia Tộc Thần Bí",
-    "Thế Giới Otomegame Thật Khắc Nghiệt Với Nhân Vật Quần Chúng": "Thế Giới Otome Game Thật Khắc Nghiệt Với Nhân Vật Quần Chúng",
-    "Diệt Slime Suốt 300 Năm Tôi Level Max Lúc Nào Chẳng Hay": "Diệt Slime Suốt 300 Năm, Tôi Level Max Lúc Nào Chẳng Hay",
-    "Holmes ở Kyoto": "Holmes Ở Kyoto",
-    "Lũ Ngốc, Bài Thi và Linh Thú Triệu Hồi": "Lũ Ngốc, Bài Thi Và Linh Thú Triệu Hồi",
-    "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon?": "Liệu Có Sai Lầm Khi Tìm Kiếm Cuộc Gặp Gỡ Định Mệnh Trong Dungeon",
-    "Lá Thư Từ Tương Lai": "Orange - Lá Thư Từ Tương Lai",
-};
 
 async function fetchData(url) {
     try {
@@ -76,7 +37,7 @@ async function fetchData(url) {
 async function fetchAllData() {
     try {
         for (let page = maxPages; page >= 1; page--) {
-            const url = `https://ln.hako.vn/xuat-ban?page=${page}`;
+            const url = `${baseUrl}?page=${page}`;
             await fetchData(url);
             await delay(5000);
             console.log(`Fetched data from ${url}`);
@@ -89,7 +50,7 @@ async function fetchAllData() {
         })).reverse();
 
         console.log("All data fetched!");
-        fs.writeFile('ranobe_output.txt', JSON.stringify(dataList, null, 2), (err) => {
+        fs.writeFile(path.join(__dirname, 'output') + '/ranobe_output.txt', JSON.stringify(dataList, null, 2), (err) => {
             if (err) throw err;
             console.log('DataList has been saved to ranobe_output.txt');
         });
