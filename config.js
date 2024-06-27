@@ -1,5 +1,30 @@
+const axios = require('axios');
+const cheerio = require('cheerio');
+
 const baseUrl = 'https://ln.hako.vn/xuat-ban';
-const maxPages = 84;
+
+async function getMaxPages() {
+    try {
+        const response = await axios.get(baseUrl);
+        const html = response.data;
+        const $ = cheerio.load(html);
+
+        const resultText = $('#licensed-list .section-title span').text();
+        const totalResultsMatch = resultText.match(/trong số (\d+) kết quả/);
+        if (totalResultsMatch) {
+            const totalResults = parseInt(totalResultsMatch[1], 10);
+            const resultsPerPage = 10;
+            const maxPages = Math.ceil(totalResults / resultsPerPage);
+            return maxPages;
+        } else {
+            throw new Error('Không tìm thấy số lượng kết quả');
+        }
+    } catch (error) {
+        console.error('Lỗi khi lấy số trang:', error);
+    }
+}
+
+const maxPages = getMaxPages();
 
 const seriesMap = {
     "Lời Nói Đùa Tập": "Lời Nói Đùa",
