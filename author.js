@@ -20,7 +20,7 @@ async function fetchPageData(page) {
             const coverUrlFormatted = coverUrl ? coverUrl.replace(/^url\(['"](.+)['"]\)$/, '$1') : '';
 
             // Remove the volume part from the title
-            seriesTitle = seriesTitle.split(/- Tập|– Tập/)[0].trim();
+            seriesTitle = seriesTitle.split(/- Tập|– Tập|\(Tập/)[0].trim();
 
             // Apply the series map exceptions
             Object.keys(seriesMap).forEach(name => seriesTitle = seriesTitle.includes(name) ? seriesMap[name] : seriesTitle)

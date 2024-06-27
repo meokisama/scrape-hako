@@ -13,7 +13,7 @@ async function fetchData(url) {
 
         $('article.listall-item').each((index, element) => {
             let seriesNameElement = $(element).find('.series-name');
-            let seriesNameText = seriesNameElement.text().trim().split("- Tập")[0].trim().split("– Tập")[0].trim();
+            let seriesNameText = seriesNameElement.text().trim().split(/- Tập|– Tập|\(Tập/)[0].trim();
 
             Object.keys(seriesMap).forEach(name => seriesNameText = seriesNameText.includes(name) ? seriesMap[name] : seriesNameText)
 
