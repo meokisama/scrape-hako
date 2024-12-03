@@ -36,7 +36,9 @@ async function fetchData(url) {
 
 async function fetchAllData() {
     try {
-        for (let page = maxPages; page >= 1; page--) {
+        const resolvedMaxPages = await maxPages;
+
+        for (let page = resolvedMaxPages; page >= 1; page--) {
             const url = `${baseUrl}?page=${page}`;
             await fetchData(url);
             await delay(5000);

@@ -24,7 +24,7 @@ async function getMaxPages() {
     }
 }
 
-const maxPages = getMaxPages();
+const maxPages = (async () => await getMaxPages())();
 
 const seriesMap = {
     "Lời Nói Đùa Tập": "Lời Nói Đùa",
