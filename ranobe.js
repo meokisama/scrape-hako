@@ -52,10 +52,18 @@ async function fetchAllData() {
         })).reverse();
 
         console.log("All data fetched!");
-        fs.writeFile(path.join(__dirname, 'output') + '/ranobe_output.txt', JSON.stringify(dataList, null, 2), (err) => {
+
+        const outputDir = path.join(__dirname, 'output');
+
+        if (!fs.existsSync(outputDir)) {
+            fs.mkdirSync(outputDir, { recursive: true });
+        }
+
+        fs.writeFile(path.join(outputDir, 'ranobe_output.txt'), JSON.stringify(dataList, null, 2), (err) => {
             if (err) throw err;
             console.log('DataList has been saved to ranobe_output.txt');
         });
+
 
     } catch (error) {
         console.error('Error fetching data:', error);
