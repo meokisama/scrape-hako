@@ -13,7 +13,7 @@ async function fetchData(url) {
 
         $('article.listall-item').each((index, element) => {
             let seriesNameElement = $(element).find('.series-name');
-            let seriesNameText = seriesNameElement.text().trim().split(/- Tập|– Tập|\(Tập/)[0].trim();
+            let seriesNameText = seriesNameElement.text().trim().split(/- Tập|-  Tập|– Tập|\(Tập/)[0].trim();
 
             Object.keys(seriesMap).forEach(name => seriesNameText = seriesNameText.includes(name) ? seriesMap[name] : seriesNameText)
 
@@ -38,7 +38,7 @@ async function fetchAllData() {
     try {
         const resolvedMaxPages = await maxPages;
 
-        for (let page = resolvedMaxPages; page >= 1; page--) {
+        for (let page = 1; page <= resolvedMaxPages; page++) {
             const url = `${baseUrl}?page=${page}`;
             await fetchData(url);
             await delay(5000);
@@ -49,7 +49,7 @@ async function fetchAllData() {
         dataList = dataList.map((item, index) => ({
             id: index + 1,
             ...item
-        })).reverse();
+        })); //.reverse()
 
         console.log("All data fetched!");
 

@@ -1,0 +1,536 @@
+[
+  {
+    "id": 89,
+    "seriesName": "Tớ Sẽ Trú Mưa Cùng Cậu",
+    "publisherName": "Shine Novel",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/f5c92e71-193e-410b-88ee-fc5a7fbcc8b1.jpg"
+  },
+  {
+    "id": 88,
+    "seriesName": "Đợi Anh Trong Mùa Xuân Ngày Hôm Qua",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/ffa00372-1b1e-46d9-a819-8e93773444a2.jpg"
+  },
+  {
+    "id": 87,
+    "seriesName": "Tặng Hoa Cho Quái Vật Trong Rừng",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/303fce14-a85b-4c98-9ece-53c3d7f1b2be.jpg"
+  },
+  {
+    "id": 86,
+    "seriesName": "Bởi Vì Tôi Sẽ Gọi Tên Em",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/c7fef5e4-5cc9-4e6c-8ae0-c87eb2c2d63d.jpg"
+  },
+  {
+    "id": 85,
+    "seriesName": "Bầu Trời Xanh Của Em",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f4216545-2ae0-45a2-84a1-0b65e0e5e609.jpg"
+  },
+  {
+    "id": 84,
+    "seriesName": "Xa Một Chút Hơn Một Triệu Năm Ánh Sáng",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/d1147c95-6721-462a-ad85-4e3c672907e6.jpg"
+  },
+  {
+    "id": 83,
+    "seriesName": "Khi Muốn Khóc Tôi Đeo Mặt Nạ Mèo",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/81b1412c-273a-4046-b277-bf68e29ab56b.jpg"
+  },
+  {
+    "id": 82,
+    "seriesName": "Nếu Gặp Lại Em Trên Ngọn Đồi Hoa Nở",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.hako.vn/ln/licensed/covers/6a23048f-9f97-4cbe-a4ef-3bbeb152395f.jpg"
+  },
+  {
+    "id": 81,
+    "seriesName": "Khóa Chặt Cửa Nào Suzume",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-29be5640-9e62-4c55-9cb6-62e5d05054c9.jpg"
+  },
+  {
+    "id": 80,
+    "seriesName": "Hello World",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-7e568828-2c4a-4a6d-8201-c99ecb515d95.jpg"
+  },
+  {
+    "id": 79,
+    "seriesName": "Đường hầm tới mùa hạ - Lối thoát của Biệt ly",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-0404485a-a981-42c2-b53d-62956b6b0d67.jpg"
+  },
+  {
+    "id": 78,
+    "seriesName": "Tớ Sẽ Mãi Mãi Không Quên Cậu, Người Từng Sống Trong Khoảnh Khắc",
+    "publisherName": "Shine Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7c351755-b221-4400-8991-2477b9f76363.jpg"
+  },
+  {
+    "id": 77,
+    "seriesName": "Hướng Dẫn Thư Viện Dành Cho Người Ghét Đọc",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-f884bf12-a14a-4536-84c4-d0de96c309b4.jpg"
+  },
+  {
+    "id": 76,
+    "seriesName": "Your Story",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-0fb7495e-15bf-4114-aa64-25db51eeb63d.jpg"
+  },
+  {
+    "id": 75,
+    "seriesName": "Khi Ấy Là Một Đêm Đầy Sao",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d1b120b2-a519-494c-9b9e-39a074932092.jpg"
+  },
+  {
+    "id": 74,
+    "seriesName": "Phép Thuật Chỉ Chạm Tới Bán Kính Của Anh Và Em",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-b4fb267c-c3a8-4cbd-a811-666964559ce7.jpg"
+  },
+  {
+    "id": 73,
+    "seriesName": "Truyền Kỳ Về Tình Yêu Của Quỷ",
+    "publisherName": "Tsuki Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-612cceba-228e-4ffb-b44b-4d062dbbfdd7.jpg"
+  },
+  {
+    "id": 72,
+    "seriesName": "Nàng Thợ May Tinh Linh",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7cf283b9-8b63-4719-8a8a-f4fb6e41999d.jpg"
+  },
+  {
+    "id": 71,
+    "seriesName": "Mùa Hè Thứ Hai, Mất Em Mãi Mãi",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9c1f2dad-537a-4728-8b0a-01be823ccf49.jpg"
+  },
+  {
+    "id": 70,
+    "seriesName": "Yokohama Station SF",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-35afa31d-73b7-4ad7-a9aa-2c36b26ced77.jpg"
+  },
+  {
+    "id": 69,
+    "seriesName": "Gia Sư Của Công Chúa Quỷ",
+    "publisherName": "Usagi Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82129e82-460b-45f6-9c3f-a444aec3a66f.jpg"
+  },
+  {
+    "id": 68,
+    "seriesName": "Công Chúa Ma Cà Rồng Quyền Năng Chỉ Muốn Có Một Cô Em Gái Mà Thôi",
+    "publisherName": "Usagi Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-af98dd6f-e82f-41e4-a784-18e66cb79ec0.jpg"
+  },
+  {
+    "id": 67,
+    "seriesName": "Tháng 8 Cùng Em Và Những Ký Ức Vụn Vỡ",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u3855-6227c01f-24fc-4a6b-be6b-e1c213adb8f3.jpg"
+  },
+  {
+    "id": 66,
+    "seriesName": "Em Là Người Sống, Tôi Là Người Chết, Thế Giới Đôi Lúc Lại Đảo Ngược",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-11b3ff0e-aac0-4c2d-9013-9ed4c5ef7dec.jpg"
+  },
+  {
+    "id": 65,
+    "seriesName": "Đau Ơi Bay Đi!",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-59a2b2e7-b241-4dee-a5f1-785afbaa943f.jpg"
+  },
+  {
+    "id": 64,
+    "seriesName": "Mê Cung Thư Viện",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-180094fa-98b0-4c81-87d6-34022681e405.jpg"
+  },
+  {
+    "id": 63,
+    "seriesName": "Aura - Trận Chiến Cuối Cùng Của Maryuin Koga",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e0d691dc-9475-4784-a9da-939936c0ed2a.jpg"
+  },
+  {
+    "id": 62,
+    "seriesName": "Những Lời Chúng Tôi Nói Ở Bệnh Viện Bên Bờ Biển",
+    "publisherName": "Kim Đồng",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9b794ab1-dd7e-4619-9dda-1f3a42bbbccb.jpg"
+  },
+  {
+    "id": 61,
+    "seriesName": "Anohana - Đóa Hoa Ngày Ấy",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2204e403-02b1-4f63-8d97-98c9325eff6a.jpg"
+  },
+  {
+    "id": 60,
+    "seriesName": "Hướng Dẫn Sử Dụng Thiên Sứ Vụng Về",
+    "publisherName": "Shine Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a747aa3a-52be-4391-9641-e9fa303bea13.jpg"
+  },
+  {
+    "id": 59,
+    "seriesName": "Em Là Ánh Sáng Giữa Đêm Trăng",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6b83ee96-318f-4f7c-9795-43c1709955ac.jpg"
+  },
+  {
+    "id": 58,
+    "seriesName": "Đứa Con Của Thời Tiết",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-72e22143-e24f-4072-bd45-ef14092d4a9b.jpg"
+  },
+  {
+    "id": 57,
+    "seriesName": "Tạm Biệt Pháo Hoa",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-98e29df4-03ff-4708-9b23-2ac5848c0004.jpg"
+  },
+  {
+    "id": 56,
+    "seriesName": "Pháo Hoa, Ngắm Từ Dưới Hay Bên Cạnh",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0446f339-3a6f-4e9f-b6b0-665cd66c8322.jpg"
+  },
+  {
+    "id": 55,
+    "seriesName": "Just Because!",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c1ca6f6a-aa97-4eef-adb0-6a76e7148b60.jpg"
+  },
+  {
+    "id": 54,
+    "seriesName": "Thế Giới Đầy「Khoảng Trống」",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1f40a655-d26e-4d66-a6ee-b925178b28a3.jpg"
+  },
+  {
+    "id": 53,
+    "seriesName": "Dear",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-06bd97d0-f6c1-44d5-869a-f7cc87a9ae0f.jpg"
+  },
+  {
+    "id": 52,
+    "seriesName": "Phù Thủy Thế Hệ Satori",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-bea81517-b5d7-4d16-9691-49958ee53ae9.jpg"
+  },
+  {
+    "id": 51,
+    "seriesName": "Những Ngày Mai Đến Không Có Cậu Kề Bên",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-db69dd0b-dc69-464d-8d73-79a12e67fdb3.jpg"
+  },
+  {
+    "id": 50,
+    "seriesName": "Nhắn Gửi Một Tôi, Người Đã Yêu Em",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-60dfccb5-81c5-4d2c-881e-7fb575262c2d.jpg"
+  },
+  {
+    "id": 49,
+    "seriesName": "Nhắn Gửi Tất Cả Các Em, Những Người Tôi Đã Yêu",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-63d6ca01-0b21-4448-a7da-d8fee6a77fa3.jpg"
+  },
+  {
+    "id": 48,
+    "seriesName": "Amaryllis Ở Xứ Sở Băng Giá",
+    "publisherName": "Kim Đồng",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f5618d07-f703-4f6b-8e2e-d4e4eb2bcc63.jpg"
+  },
+  {
+    "id": 47,
+    "seriesName": "Vào Đêm Trăng Xanh, Tôi Lại Yêu Em Thêm Lần Nữa",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2b374222-3c5a-442b-97f9-61a7e7119011.jpg"
+  },
+  {
+    "id": 46,
+    "seriesName": "Bác Sĩ Cuối Cùng Dưới Tán Hoa Anh Đào",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d8d18f29-6d99-4f22-bcd3-ef07ba494ed4.jpg"
+  },
+  {
+    "id": 45,
+    "seriesName": "ECHO - Tiếng vọng",
+    "publisherName": "Uranix",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4fb44740-5b23-4486-80b1-a74c97d29ebd.jpg"
+  },
+  {
+    "id": 44,
+    "seriesName": "5 Centimet Trên Giây - One More Side -",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-a90df73c-f0de-479b-956b-fa949bed9901.jpg"
+  },
+  {
+    "id": 43,
+    "seriesName": "Death Note - Another Note",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3178949a-88c5-49d4-af7f-c5272c17e92a.jpg"
+  },
+  {
+    "id": 42,
+    "seriesName": "Narcissu",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3c1e738b-5cd9-4396-8b29-932fe21f9643.jpg"
+  },
+  {
+    "id": 41,
+    "seriesName": "Và Rồi, Tháng 9 Không Có Cậu Đã Tới",
+    "publisherName": "Ai Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8fcbb06d-5909-4bf3-8c86-f8395ee95a7e.jpg"
+  },
+  {
+    "id": 40,
+    "seriesName": "Những Đứa Trẻ Đuổi Theo Tinh Tú",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-70171c12-e9c9-4332-9096-90fb260464ed.jpg"
+  },
+  {
+    "id": 39,
+    "seriesName": "Câu Chuyện Về Cô Bé Yêu Bánh Hạnh Nhân Đã Sống Một Nghìn Năm",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-73aaca13-a653-4298-87f9-7e24af5e4d86.jpg"
+  },
+  {
+    "id": 38,
+    "seriesName": "Tôi Thích Một Cô Gái Nhưng Chẳng Dám Ngỏ Lời",
+    "publisherName": "Tsuki Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-259abf09-95e7-42db-8ec1-af5ad78f6926.jpg"
+  },
+  {
+    "id": 37,
+    "seriesName": "Iris Những Ngày Mưa",
+    "publisherName": "Kim Đồng",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-91695acb-a7f1-4211-a7cb-368c40a5beae.jpg"
+  },
+  {
+    "id": 36,
+    "seriesName": "Dạo Bước Phố Đêm",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e4eb9523-46ec-452a-b2d3-bb18922ac277.jpg"
+  },
+  {
+    "id": 35,
+    "seriesName": "Ký Ức Bầu Trời",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-660ccfdc-077d-49d0-8800-3e2157301a63.jpg"
+  },
+  {
+    "id": 34,
+    "seriesName": "Bên Kia Mây Trời, Là Nơi Hẹn Ước",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e37a7644-9854-4b11-881a-79a0a93571b5.jpg"
+  },
+  {
+    "id": 33,
+    "seriesName": "Quái Vật Trong Đêm",
+    "publisherName": "Kim Đồng",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e0daee70-44fa-4257-a002-4863276a8b45.jpg"
+  },
+  {
+    "id": 32,
+    "seriesName": "Hẹn Ước Mùa Hè",
+    "publisherName": "Tsuki Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-01d35ac1-2ca0-46c1-af93-64e38fd2fbe0.jpg"
+  },
+  {
+    "id": 31,
+    "seriesName": "Riku và Chise - Chàng Trai Phân Chia Thế Giới Và Cô Gái Trong Biệt Thự -",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-3d8f3eff-3072-427d-ac60-1369a06e0fe6.jpg"
+  },
+  {
+    "id": 30,
+    "seriesName": "Tình Đầu Lúc Lâm Chung Với Thiếu Nữ Thần Chết",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-79498bdd-8e79-459a-bbd3-54128ebdd49e.jpg"
+  },
+  {
+    "id": 29,
+    "seriesName": "Thần Chết Làm Thêm 300 Yên/Giờ",
+    "publisherName": "Tsuki Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-7a07b764-7233-44bd-a8b5-507e9564b51d.jpg"
+  },
+  {
+    "id": 28,
+    "seriesName": "Torinoko City - Thành phố bị bỏ rơi",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-0d758a19-984b-4fd3-9f92-0eabc1f5a990.jpg"
+  },
+  {
+    "id": 27,
+    "seriesName": "Chàng thẩm định viên và Nữ tác giả tập sự",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u1-05ae3d8a-0e6f-423e-85a1-e86efaebd43f.jpeg"
+  },
+  {
+    "id": 26,
+    "seriesName": "Ba Ngày Hạnh Phúc",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-be25b804-55cd-44be-9597-a0d8c20ce1a3.jpg"
+  },
+  {
+    "id": 25,
+    "seriesName": "Xa Lộ Chim Cánh Cụt",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-ae1a77c6-f211-48f0-9f24-491ff3fa77c2.jpg"
+  },
+  {
+    "id": 24,
+    "seriesName": "Thọ Mệnh Thế Giới Và Bảy Ngày Đầu Tiên",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-cc77322e-9d48-40d5-be4e-3219b948cba6.jpg"
+  },
+  {
+    "id": 23,
+    "seriesName": "The Tatami Galaxy - Truyền Kỳ Phòng Bốn Chiếu Rưỡi",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-fea3a30d-e35f-4164-b192-7d5835b91d63.jpg"
+  },
+  {
+    "id": 22,
+    "seriesName": "Hãy Đi Đi, Xanh Biếc",
+    "publisherName": "Amak",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-2d336fe2-7aab-4983-b4bd-52fde9b77f6e.jpg"
+  },
+  {
+    "id": 21,
+    "seriesName": "Just Be Friends",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4cf4a6e7-247e-47bc-a0b2-d0dffbf4b576.jpg"
+  },
+  {
+    "id": 20,
+    "seriesName": "Quán Ăn Xuyên Không",
+    "publisherName": "Amak",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-b334045e-d62d-4f67-8d18-dc9f9335824e.jpg"
+  },
+  {
+    "id": 19,
+    "seriesName": "Nhật Ký Kẻ Cô Đơn",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-5a127494-aa54-4ba9-872a-b4c2bfb5eef3.jpg"
+  },
+  {
+    "id": 18,
+    "seriesName": "Another S/O",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-f6c20374-a309-4eb6-9955-48b4e1600aff.jpg"
+  },
+  {
+    "id": 17,
+    "seriesName": "Đội Bảo An Kyoto",
+    "publisherName": "Amak",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-6427d36f-15b1-463f-9e04-81cd3f8deb7a.jpg"
+  },
+  {
+    "id": 16,
+    "seriesName": "Tớ Muốn Ăn Tụy Của Cậu",
+    "publisherName": "Nhã Nam",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-e53b14af-9a7a-4962-94ca-c0a1c6301c1e.jpg"
+  },
+  {
+    "id": 15,
+    "seriesName": "Dưới Ánh Sáng Ma Pháp 0.2 Lux",
+    "publisherName": "Sky Light Novel",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-faaee3dd-5c87-401b-986c-a8cb8b1b4836.jpg"
+  },
+  {
+    "id": 14,
+    "seriesName": "Hành Trình Đến Tận Cùng Thế Giới",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9c946de6-442e-4607-abec-57193430aa43.jpg"
+  },
+  {
+    "id": 13,
+    "seriesName": "Nhật Ký Giấc Mơ – Trong Giấc Mơ Của Bạn, Tôi Không Tồn Tại",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-99b04f65-3b0d-4eae-a500-3e21105f5133.jpg"
+  },
+  {
+    "id": 12,
+    "seriesName": "Calling You",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-082266b4-5dd6-4a82-8d29-65c9289df691.jpg"
+  },
+  {
+    "id": 11,
+    "seriesName": "Cuộc Chiến Luân Hồi - All You Need Is Kill",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-63370ef7-8d7f-4b6b-9791-0c125cc5328a.jpg"
+  },
+  {
+    "id": 10,
+    "seriesName": "Your Name",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-4a4f8ba3-eeb7-4515-8029-b0b5a1654d72.jpg"
+  },
+  {
+    "id": 9,
+    "seriesName": "Bí Mật Giao Ước Bóng Tối",
+    "publisherName": "Thái Hà Books",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-82d3abba-8231-4303-89ca-bfb74f9dabb9.jpg"
+  },
+  {
+    "id": 8,
+    "seriesName": "Tiếng gọi từ vì sao xa",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-1a42b1fb-e00e-424d-96bd-b2e90a66e97d.jpg"
+  },
+  {
+    "id": 7,
+    "seriesName": "Mimizuku Và Vua Bóng Đêm",
+    "publisherName": "Owlbooks",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-9ba27679-7648-4555-8d26-cada46eeef30.jpg"
+  },
+  {
+    "id": 6,
+    "seriesName": "Ánh Trăng",
+    "publisherName": "Quảng Văn",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-90f05567-736f-4929-a2d3-881f12505741.jpg"
+  },
+  {
+    "id": 5,
+    "seriesName": "Chào Mừng Đến Với N.H.K!",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-db1a4c62-3484-42ea-bfe1-48fa02e20298.jpg"
+  },
+  {
+    "id": 4,
+    "seriesName": "Khu vườn ngôn từ",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-c8441bf6-93aa-4214-83c2-611054fa4948.jpg"
+  },
+  {
+    "id": 3,
+    "seriesName": "5 Centimet Trên Giây",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-d4c413c7-c985-4d20-bbed-8f6ebf8a603e.jpg"
+  },
+  {
+    "id": 2,
+    "seriesName": "Another",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-8bcd14e5-83c7-4599-8419-fd2867f02404.jpg"
+  },
+  {
+    "id": 1,
+    "seriesName": "Ame Và Yuki - Những Đứa Con Của Sói",
+    "publisherName": "IPM",
+    "coverUrl": "https://i.docln.net/lightnovel/covers/u2-66c3c330-2ae2-4ff4-8579-c8463bbf96ee.jpg"
+  }
+]

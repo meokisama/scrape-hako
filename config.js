@@ -47,7 +47,7 @@ const seriesMap = {
     "Pháo Hoa, Ngắm Từ Dưới Hay Bên Cạnh": "Pháo Hoa, Ngắm Từ Dưới Hay Bên Cạnh",
     "Đứa Con Của Thời Tiết": "Đứa Con Của Thời Tiết",
     "Khi Hikaru Còn Trên Thế Gian Này": "Khi Hikaru Còn Trên Thế Gian Này",
-    "Death Note": "Death Note",
+    "Death Note": "Death Note - Another Note",
     "Rừng Taiga": "Rừng Taiga",
     "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương": "Vì Con Gái Tôi Có Thể Đánh Bại Cả Ma Vương",
     "Another (trọn bộ 2 tập)": "Another",
